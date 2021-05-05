@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+body {
+    margin: 0px;
+    background: #ededed;
+    padding-bottom: 194px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.content{
+    background: #fff;
+    padding: 40px;
+    margin-top: 60px;
+    box-shadow: 0 1px 2px #ccc;
+}
+.outline{
+    text-shadow: #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
+             #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px;
+}
+.invisible-box {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+h3 {
+    font-size: 28px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+}
+
+.tetrimus {
+    position: relative;
+    background-color: #343a40;
+    background: url(placeholder.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 14rem;
+    padding-bottom: 14rem;
+}
+.tetrimus .overlay {
+    position: absolute;
+    background-color: #212529;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: .3;
+}
+
+.footer{
+    padding: 1rem;
+    background-color: #1fc111;
+    bottom: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 65px;
+    position: absolute;
+    max-width: 650px;
+    right: 0;
+}

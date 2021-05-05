@@ -1,0 +1,10 @@
+{
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Ashopping_cart_domain_register&module_type=server&module=cpanel",
+   "label" : "Register New Domain",
+   "url" : "https://viewen.com/free-hosting/cart.php?a=add&domain=register&ssoredirect=1",
+   "implements" : "",
+   "group_id" : "whmcs",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAilBMVEUAAAAlMjyEtVYlMjyEtVYlMjxFXkWEtVYlMjwlMjyEtVYlMjyEtVYlMjyEtVYlMjyEtVYlMjyEtVYlMjyEtVYlMjyEtVYlMjyEtVYlMjyEtVYlMjyEtVYlMjyEtVYlMjwrOj4xQj83S0E9U0NDW0RPa0dVdElafEtghExmjE5ynFF4pVN+rVSEtVZDVU8AAAAAH3RSTlMAEBAgIDAwMEBQUGBgcHCAgI+Pn5+vr7+/z8/f3+/v0SY3awAAAZ5JREFUeAGVlu9y2yAQxJcqapUqKqVYpgqRN7H6p3HK+79ekXUZk8Y26DfjOT7smjsQB3hH3VnHI852NTJUxvMN3lTX5JZnsJcsyvACRuEMjedFfIN3tLxKi/+wzGAz+oxD8inOqmERDQTlWYRXWDAsxMj+sphKVqgYKxOUUxVXkFThuQIP1FxFjY6r6GC5CgvHlNHq/hRoxl4P7PVJ5MCUQQG4XUI9ys7WQJI4mKLQOdOzgnYtWmoo1wF9jOcNDpC1m8eKGk2MFQmcMYwDhzeGSgzNBYOCY4Vb3Wo2MdTQBYZhKXBsjoEWLQfckiqpwSUpRQbnk+Dm4Uh6T8Gt3rj1n0bNAp6maeKRuuTz/vkSZp6jxxccoP0hvPKbJn9E93/DiT9Vtgk8voSUr9ku8CtRP8TfTa6RJRPcYROnyLTKfarHNoTvmWY8hch2u+g3IZJp97PhPkpFH8lcKJMk8+lVv8N1x5OkL3qp4VpWh9MCyShz7f5YdPei333IXuzPIeVz/unweEj0dyWPk4/fgrCT/88+f242D/P6fDnm/w9eCuE9FO/4IwAAAABJRU5ErkJggg=="
+}

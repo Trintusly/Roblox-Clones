@@ -1,0 +1,2 @@
+// new()
+control_reset();

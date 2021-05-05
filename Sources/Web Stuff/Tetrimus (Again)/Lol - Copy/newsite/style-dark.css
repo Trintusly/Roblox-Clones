@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+body{
+	background: rgb(64, 69, 82);
+	font-family: 'Ubuntu', sans-serif;
+}
+font{
+	color: #E1E4EB;
+}
+p{
+	color: #E1E4EB;
+}
+h1{
+	color: #E1E4EB;
+}
+h2{
+	color: #E1E4EB;
+}
+h3{
+	color: #E1E4EB;
+}
+h4{
+	color: #E1E4EB;
+}
+h5{
+	color: #E1E4EB;
+}
+h6{
+	color: #E1E4EB;
+}
+strong{
+	color: #fff;
+}
+b{
+	color: #fff;
+}

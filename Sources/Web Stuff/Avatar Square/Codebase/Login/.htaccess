@@ -1,0 +1,2 @@
+ErrorDocument 404 http://worldcreate.x10.mx/Error/
+DirectoryIndex index.php

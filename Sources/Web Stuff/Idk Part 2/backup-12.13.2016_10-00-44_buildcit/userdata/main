@@ -1,0 +1,9 @@
+--- 
+addon_domains: {}
+
+main_domain: buildcity.ml
+parked_domains: []
+
+sub_domains: 
+  - maintenance.buildcity.ml
+  - avatars.buildcity.ml

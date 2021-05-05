@@ -1,0 +1,29 @@
+#banner {
+    background-image: url('http://www.brick-hill.com/assets/BH_HeadOLD.png')!important;
+    height: 68px;
+    border: 1px solid black;
+    border-bottom: none;
+    padding: 0px;
+}
+#info {
+    margin: 1px;
+    border-bottom: black 1px solid;
+    border-right: none;
+    border-top: none;
+}
+#welcome {
+	background: transparent;
+	border: none;
+	margin: 0;
+}
+#welcome:hover {
+	background: transparent;
+	text-decoration: underline;
+}
+body {
+	background: #c4d5ef!important;
+	
+}
+#navbar {
+	background-color: #77B9FF!important;
+}

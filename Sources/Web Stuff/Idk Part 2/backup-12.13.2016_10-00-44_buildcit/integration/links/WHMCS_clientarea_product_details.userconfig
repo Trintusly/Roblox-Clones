@@ -1,0 +1,10 @@
+{
+   "url" : "https://viewen.com/free-hosting/clientarea.php?action=services&ssoredirect=1",
+   "implements" : "billing",
+   "group_id" : "whmcs",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAhFBMVEUAAAAlMjzt7e0lMjwlMjwlMjxNV18lMjwlMjwlMjwlMjzt7e0lMjx1fYOdoqbt7e0lMjwlMjzt7e0lMjzt7e0lMjwlMjy4u74lMjwyPkc+SVJweH6JkJWip6vIyszU1tfb29vc3Nze3t7h4eLi4uLl5eXm5ubn5+fq6urr6+vs7Ozt7e2vu8cdAAAAGHRSTlMAEBAgQFBQYHCAj4+fn5+fr7+/z8/f7+/6LN6mAAABPElEQVR4AZXT23KCMBSF4Q2eAcUAYtra1p5b9/u/X50lyUwxKzXr1u93si8QurxRLeX25Z2eV6d4bJPoH22V6C0pqCcF96TgHlsn+getE72SgnpSUE8K7k8fpGD+9fgeLLg/hgvuwwX34SLisZcfFLf7b8XKFI/FvH5de6Ue+7zyTcSjGPku594XCR5FisdOf700xI/mvaR6SfVSpnisvsE/7+fTzBebf/zb4R6/bqeuqKL+CRyrfBHzd/a8nQExvuDvwf/3mSxRrHxBvB4sApGZxSauWGt4wwFm1VtsKW51+AI7mpF4sR9cW/T2MokW3XxgmRQ+iBRdPvVsZbGdsAJeJuNgK6yAF2lHwUJoAS8Ld0PlXxQs4LHtBRqLzYQU3kvWQvoHkQJ+KArH+5kEV6o2zmOToj1rs8An9AtdWcJqFh+b+gAAAABJRU5ErkJggg==",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Aproduct_details&module_type=server&module=cpanel",
+   "label" : "View Billing Information"
+}

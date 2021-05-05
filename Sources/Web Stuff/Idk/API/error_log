@@ -1,0 +1,24 @@
+[16-Dec-2012 01:51:56] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[16-Dec-2012 01:51:56] PHP Warning:  imagepng(): supplied argument is not a valid Image resource in /home/socialpa/public_html/API/GradientGD.php on line 34
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: timezonedb: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_sqlite.so: undefined symbol: php_pdo_register_driver in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: php_pdo_register_driver in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/pdo_mysql.so: undefined symbol: php_pdo_get_dbh_ce in Unknown on line 0
+[20-Dec-2012 15:12:51 America/Chicago] PHP Deprecated:  Directive 'magic_quotes_gpc' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Dec-2012 12:28:07 America/Chicago] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[21-Dec-2012 12:28:07 America/Chicago] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[24-Dec-2012 12:25:51 Europe/Moscow] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[24-Dec-2012 12:25:51 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[25-Dec-2012 12:58:37 Europe/Moscow] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/socialpa/public_html/API/GradientGD.php on line 15
+[25-Dec-2012 12:58:37 Europe/Moscow] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/socialpa/public_html/API/GradientGD.php on line 34
+[16-Apr-2016 18:52:17 UTC] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home2/avatarblocks/public_html/API/GradientGD.php on line 15
+[16-Apr-2016 18:52:17 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home2/avatarblocks/public_html/API/GradientGD.php on line 34

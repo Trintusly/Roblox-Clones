@@ -1,0 +1,10 @@
+{
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Atickets&module_type=server&module=cpanel",
+   "label" : "View Support Tickets",
+   "url" : "https://viewen.com/free-hosting/supporttickets.php?ssoredirect=1",
+   "implements" : "support",
+   "group_id" : "whmcs",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAilBMVEUAAADt7e3Ozs7t7e3Ozs7g4ODt7e3t7e3t7e3Ozs7Ozs7t7e0lMjwyPkc+SVJLVV1XYWhcjihkbHNllDRweH6JkJWWm6CZwW+exHeip6ulvouuw5evs7a3yaO7vsHD167IyszI2rbJ1bzOzs7O3b7S28jU1tfW1tbY4s7d5dXh4eLk5+Ho6uXt7e37F3KlAAAADHRSTlMAEDBAYHCPn6/P7+8BnfPqAAAA+UlEQVR4AdXV206DQBDG8amHemApFXG1tq5bFZXRef/Xc7fdTryCb6Ix8X9DSOYXyLAJlJqdCdT5jPbNBWxeQIWCqgCB+22wvdUw8PhPQQiMA/aNSzUbEMSFK3UYqJ22gUAaXPgQ2nRdQqBzLR+epGD7nvscWyt/By/TZ4nzK7V7cDfIJIi7zQbJDYNMgtfdqlb48e7yqqLgIM3XLKX1lTYGvN7cA8A3LeNAwwEvXR0twOs5AsGNAeh3W1mAcIgCAu2HYP2U+4DBg2gIuO7FBPpeQKD9OaisYK7A+Nt9O3R6PBZpz6UTArPOk3WerPNknSfrPF1cHhHcF9/8CB/eH3crAAAAAElFTkSuQmCC"
+}

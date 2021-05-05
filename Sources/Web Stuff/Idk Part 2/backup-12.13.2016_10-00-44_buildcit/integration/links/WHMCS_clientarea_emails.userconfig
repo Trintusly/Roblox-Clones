@@ -1,0 +1,10 @@
+{
+   "implements" : "",
+   "url" : "https://viewen.com/free-hosting/clientarea.php?action=emails&ssoredirect=1",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAq1BMVEUAAACEtVa8vLzg4OAlMjyEtVa8vLzg4OAlMjyEtVa8vLzg4OAlMjyEtVa8vLzg4OCEtVa8vLzg4OAlMjyEtVa8vLzg4OAlMjyEtVa8vLzg4OCEtVa8vLzg4OCEtVbg4OCEtVa8vLwlMjyEtVa8vLzg4OCEtVa8vLzg4OCEtVa8vLzT09Pg4OAlMjyEtVa8vLzW1tbg4OAlMjyEtVa8vLy+vr7FxcXe3t7g4OBnN95CAAAAMnRSTlMAEBAQICAgIDAwMDBAQEBAUFBQYGBwcICAgICPj4+fn6+vv7+/v8/Pz9/f39/v7+/v73peZywAAAG1SURBVHgB7ZJRU9pQEIVPSCMFCsY0RqCCESQGTaN4q+7//2U9M5vkppOMXB467YPfU+7MfucsO+BfMVssZnBncP2LXA+c4x84Th5m7vHEtUTj787O7rTEKf7pEuTySUtc4vVlSxziydESGx+npTFlGn9YYuOne1Oxn7LEnqsn/n7MeJ1ViyXjey3pu/0CQMixMvYALy75GQJY2JJOPDxOZR4IvzO6HmxJJ57MuQ1nvr58Bw3uNQexJX/Gk71u8e3lCiSkDtIuubDxJNAJFdQPoGjJBR5fKTJemRqzbQtbY6aoGHOV10fI+9vtAF3h52Zz1QjK4PbtXSAizxFqRrwRyJcNocA7jVATPYsIBbLyUWG4NJrQgE9U+CuRRpBiAmXNnTID+0qhTAppCWTZ/AgCJTbNT1iKWEHJh3rIRvB+8GsNgmEuXUEOCYe2VUMwX5em/pckB+kRyM73OEbq1VLOw9+J9AssiYDRfJuqkIUg0UH6BeVGD8yVwgDEvxH5UJDiHC3OCzkikBUaViIOguQTHZ/k4iSQBCQRcRZklyQ7cReU/1r4FAo5iQKRnEQEDJcnMMTf5zfbpg9xBdTEKQAAAABJRU5ErkJggg==",
+   "group_id" : "whmcs",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Aemails&module_type=server&module=cpanel",
+   "order" : "1",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "label" : "View Email History"
+}

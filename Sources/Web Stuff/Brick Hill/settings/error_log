@@ -1,0 +1,11 @@
+[16-Apr-2017 11:49:13 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:54:11 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:54:15 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:54:15 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:57:25 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:57:33 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:57:42 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:57:42 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:58:45 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:58:46 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[17-Apr-2017 16:52:52 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/bricflrb/public_html/SiT_3/header.php on line 311

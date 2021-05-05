@@ -1,0 +1,38 @@
+body {
+margin:0;
+padding:0;
+font-family:Verdana;
+background:#333;
+}
+
+#TopMenu {
+width:100%;
+background:#E8E8E8;
+padding-top:10px;
+padding-bottom:10px;
+font-size:10pt;
+border-bottom:1px solid #AAAAAA;
+}
+
+#MainContainer {
+background:white;
+width:1000px;
+font-size:8pt;
+padding:7px;
+border:1px solid #555;
+text-align:left;
+}
+
+#BlogPost {
+background:#f5f5f5;
+padding:5px;
+border:1px solid #ddd;
+font-size:13px;
+}
+
+#Title {
+font-size:25px;
+color:#666;
+border-bottom:1px solid #eee;
+padding-bottom:10px;
+}

@@ -1,0 +1,7 @@
+[16-Apr-2017 07:45:24 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/bricflrb/public_html/membership/gift_membership.php on line 22
+[16-Apr-2017 11:46:32 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:48:08 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:52:21 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 11:56:16 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 12:01:08 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320
+[16-Apr-2017 12:01:51 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/bricflrb/public_html/SiT_3/header.php on line 320

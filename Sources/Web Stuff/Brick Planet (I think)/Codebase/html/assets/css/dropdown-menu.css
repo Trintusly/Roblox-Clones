@@ -1,0 +1,134 @@
+
+.dropdown-parent {
+	position: relative;
+	display: inline-block;
+}
+
+.top-bar-dropdown {
+	display: none;
+	position: fixed;
+	top: 60px;
+	margin-left: -180px;
+	background: #FFFFFF;
+	width: 250px;
+	border: 1px solid #DEDEDE;
+	box-shadow: 0 1px 1px #DEDEDE;
+	border-radius: 4px;
+	z-index: 100001;
+}
+
+.top-bar-dropdown-padding-area {
+	padding: 10px 0;
+	border-top: 1px solid #DEDEDE;
+}
+
+.top-bar-dropdown-padding-area-nb {
+	padding: 10px 15px;
+	font-size: 14px;
+	background: #FDFDFD;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+
+.top-bar-dropdown-padding-area-nb div {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.top-bar-dropdown-padding-area-nb span {
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 10px;
+	font-weight: 600;
+}
+
+.top-bar-dropdown a {
+	text-decoration: none;
+	display: block;
+	padding: 8px 15px;
+	color: #667777;
+	font-size: 14px;
+}
+
+.top-bar-dropdown a:hover, .top-bar-dropdown a:focus {
+	background: #F1F1F1;
+	-o-transition: .2s;
+	-ms-transition: .2s;
+	-moz-transition: .2s;
+	-webkit-transition: .2s;
+	transition: .2s;
+}
+
+.emoji-dropdown {
+	display: none;
+	position: absolute;
+	background: #FFFFFF;
+	width: 215px;
+	margin-top: 10px;
+	border: 1px solid #EDEDED;
+	box-shadow: 0 1px 2px #CCC;
+	padding: 10px;
+	z-index: 999;
+}
+
+.emoji-dropdown-heading-text {
+	text-transform: uppercase;
+	color: #444;
+	font-size: 12px;
+	font-weight: 600;
+	padding-bottom: 5px;
+}
+
+.emoji-push {
+	height: 10px;
+}
+
+.emoji-divider {
+	height: 1px;
+	width: 100%;
+	box-sizing: border-box;
+	background: #EDEDED;
+}
+
+.emoji-icon {
+	display: inline-block;
+	position: relative;
+}
+
+.emoji-absolute {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+img.emoji {
+	cursor: pointer;
+	height: 1em;
+	width: 1em;
+	margin: 0 .05em 0 .1em;
+	vertical-align: -0.1em;
+	padding: 2px;
+	margin: 4px;
+}
+
+.emojis-list {
+	height: 105px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	font-size: 20px;
+	position: relative;
+}
+
+.emoji-search {
+	padding: 0 !important;
+	font-size: 12px !important;
+	padding: 4px 12px !important;
+	border: 1px solid #DEDEDE !important;
+	border-radius: 3px !important;
+	margin-top: 0 !important;
+	color: #555 !important;
+}
+
+.menushow {
+	display: block;
+}

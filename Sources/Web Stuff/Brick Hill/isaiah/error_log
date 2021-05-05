@@ -1,0 +1,569 @@
+[11-Jan-2017 17:33:27 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:33:27 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:33:45 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:33:45 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:33:45 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: ripemd in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[11-Jan-2017 17:34:27 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:34:27 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:34:27 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: ripemd in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[11-Jan-2017 17:34:27 America/New_York] PHP Notice:  Undefined variable: crc32 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 60
+[11-Jan-2017 17:35:11 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:35:11 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:35:43 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:35:43 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:36:28 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:36:28 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:36:28 America/New_York] PHP Notice:  Undefined variable: crc32 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 60
+[11-Jan-2017 17:37:05 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:05 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:05 America/New_York] PHP Notice:  Undefined variable: crc32 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 61
+[11-Jan-2017 17:37:07 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:07 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:07 America/New_York] PHP Notice:  Undefined variable: crc32 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 61
+[11-Jan-2017 17:37:23 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:23 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:23 America/New_York] PHP Warning:  Missing argument 1 for shirtE(), called in /home/bricflrb/alpha_subdomain/isaiah/test.php on line 5 and defined in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 57
+[11-Jan-2017 17:37:23 America/New_York] PHP Notice:  Undefined variable: crc32 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 60
+[11-Jan-2017 17:37:51 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:51 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:51 America/New_York] PHP Warning:  Missing argument 1 for shirtE(), called in /home/bricflrb/alpha_subdomain/isaiah/test.php on line 5 and defined in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 57
+[11-Jan-2017 17:37:51 America/New_York] PHP Notice:  Undefined variable: shirtID in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[11-Jan-2017 17:37:52 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:52 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:52 America/New_York] PHP Warning:  Missing argument 1 for shirtE(), called in /home/bricflrb/alpha_subdomain/isaiah/test.php on line 5 and defined in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 57
+[11-Jan-2017 17:37:52 America/New_York] PHP Notice:  Undefined variable: shirtID in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[11-Jan-2017 17:37:59 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:37:59 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:38:00 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:38:00 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:38:01 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:38:01 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:39:46 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:39:46 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:39:54 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:39:54 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:41:38 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:41:38 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:41:40 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:41:40 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:41:52 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:41:52 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:42:06 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 17:42:06 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 18:56:48 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 18:56:48 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 18:56:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function shirtE() in /home/bricflrb/alpha_subdomain/isaiah/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/isaiah/test.php on line 5
+[11-Jan-2017 18:57:03 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 18:57:03 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 19:12:32 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 19:12:32 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 19:12:48 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 19:12:48 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 19:15:32 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[11-Jan-2017 19:15:32 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:09:18 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:09:18 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:09:21 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:09:21 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:13:53 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:07 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:20 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:30 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:14:49 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:13 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:15 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:15:29 America/New_York] PHP Warning:  hash(): Unknown hashing algorithm: haval160 in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 59
+[14-Jan-2017 17:16:46 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:16:46 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:16:47 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:16:47 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:16:58 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:16:58 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:16:59 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:16:59 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:17:00 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:17:00 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:17:09 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:17:09 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:17:17 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:17:17 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:57:02 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:57:02 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:57:02 America/New_York] PHP Warning:  opendir(../../storage_subdomain/assests/textures/): failed to open dir: No such file or directory in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 6
+[14-Jan-2017 17:57:35 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:57:35 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:57:35 America/New_York] PHP Warning:  opendir(../../storage_subdomain/assests/textures/): failed to open dir: No such file or directory in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 6
+[14-Jan-2017 17:57:50 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 17:57:50 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:01:28 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:01:28 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:01:41 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:01:41 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:01:41 America/New_York] PHP Warning:  scandir(../../storage_subdomain/assests/textures): failed to open dir: No such file or directory in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 18
+[14-Jan-2017 18:01:41 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 18
+[14-Jan-2017 18:01:47 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:01:47 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:02:00 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:02:00 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:02:00 America/New_York] PHP Warning:  scandir(../../storage_subdomain/assests/textures/): failed to open dir: No such file or directory in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 18
+[14-Jan-2017 18:02:00 America/New_York] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 18
+[14-Jan-2017 18:02:06 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:02:06 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:02:20 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:02:20 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:02:41 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:02:41 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:02:41 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/textures/.,../../storage_subdomain/assests/hats/textures/a1565a15): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 12
+[14-Jan-2017 18:02:41 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/textures/..,../../storage_subdomain/assests/hats/textures/ba47d814): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 12
+[14-Jan-2017 18:03:03 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:03:03 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:03:03 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/textures/.,../../storage_subdomain/assests/hats/textures/.png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 12
+[14-Jan-2017 18:03:03 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/textures/..,../../storage_subdomain/assests/hats/textures/..png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 12
+[14-Jan-2017 18:04:15 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:04:15 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:04:22 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:04:22 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:04:33 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:04:33 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:04:43 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:04:43 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:04:50 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:04:50 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:06:37 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:06:37 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:06:37 America/New_York] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 19
+[14-Jan-2017 18:06:38 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:06:38 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:06:38 America/New_York] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 19
+[14-Jan-2017 18:06:48 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:06:48 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:07:34 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 12
+[14-Jan-2017 18:07:43 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 12
+[14-Jan-2017 18:08:12 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:08:12 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:08:12 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/textures/.,../../storage_subdomain/assests/hats/textures/.png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:08:12 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/textures/..,../../storage_subdomain/assests/hats/textures/..png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:08:24 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:08:24 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:08:24 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/textures/.,../../storage_subdomain/assests/hats/textures/..png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:08:24 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/textures/..,../../storage_subdomain/assests/hats/textures/...png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:09:37 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:09:37 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:09:37 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/.,../../storage_subdomain/assests/hats/models/..png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:09:37 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/..,../../storage_subdomain/assests/hats/models/...png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:09:38 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:09:38 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:09:38 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/.,../../storage_subdomain/assests/hats/models/..png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:09:38 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/..,../../storage_subdomain/assests/hats/models/...png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:09:40 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:09:40 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:09:40 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/.,../../storage_subdomain/assests/hats/models/..png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:09:40 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/..,../../storage_subdomain/assests/hats/models/...png): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:10:17 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:10:17 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:10:17 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/.,../../storage_subdomain/assests/hats/models/.): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:10:17 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/..,../../storage_subdomain/assests/hats/models/..): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:10:33 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:10:33 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:10:33 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/.,../../storage_subdomain/assests/hats/models/.): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:10:33 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/..,../../storage_subdomain/assests/hats/models/..): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:12:56 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:12:56 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:12:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function itemShopHash() in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 12
+[14-Jan-2017 18:13:09 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:13:09 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:13:09 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/.,../../storage_subdomain/assests/hats/models/a1565a15.obj): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:13:09 America/New_York] PHP Warning:  rename(../../storage_subdomain/assests/hats/models/..,../../storage_subdomain/assests/hats/models/ba47d814.obj): Device or resource busy in /home/bricflrb/alpha_subdomain/isaiah/renameFiles.php on line 13
+[14-Jan-2017 18:14:43 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:14:43 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:15:27 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:15:27 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:16:59 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[14-Jan-2017 18:16:59 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[16-Jan-2017 02:27:45 America/New_York] PHP Parse error:  syntax error, unexpected '"A"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/bricflrb/alpha_subdomain/isaiah/topkek.php on line 48
+[22-Jan-2017 14:14:51 America/New_York] PHP Warning:  file_get_contents(../keys/card_grass.php?format=base64): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 8
+[22-Jan-2017 14:16:20 America/New_York] PHP Warning:  file_get_contents(http://alpha.brick-hill.com/keys/card_grass.php?format=base64): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 7
+[22-Jan-2017 14:16:22 America/New_York] PHP Warning:  file_get_contents(http://alpha.brick-hill.com/keys/card_grass.php?format=base64): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 7
+[22-Jan-2017 14:16:33 America/New_York] PHP Warning:  file_get_contents(http://alpha.brick-hill.com/keys/card_grass.php?format=base64): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 7
+[22-Jan-2017 14:16:49 America/New_York] PHP Warning:  file_get_contents(../keys/card_grass.php?format=base64): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 7
+[22-Jan-2017 14:17:04 America/New_York] PHP Warning:  file_get_contents(../keys/card_grass.php?format=base64): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 5
+[22-Jan-2017 14:19:31 America/New_York] PHP Notice:  Undefined index: key in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 9
+[22-Jan-2017 14:19:31 America/New_York] PHP Notice:  Undefined variable: image in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 10
+[22-Jan-2017 14:19:31 America/New_York] PHP Warning:  imagecreatefrompng(): Filename cannot be empty in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 10
+[22-Jan-2017 14:19:31 America/New_York] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 11
+[22-Jan-2017 14:19:31 America/New_York] PHP Warning:  imagettftext() expects parameter 1 to be resource, boolean given in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 14
+[22-Jan-2017 14:19:31 America/New_York] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 16
+[22-Jan-2017 14:19:31 America/New_York] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 17
+[22-Jan-2017 14:20:06 America/New_York] PHP Notice:  Undefined index: key in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 9
+[22-Jan-2017 14:20:06 America/New_York] PHP Warning:  imagettftext(): Could not find/open font in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 14
+[22-Jan-2017 14:23:29 America/New_York] PHP Notice:  Undefined index: key in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 9
+[22-Jan-2017 14:23:29 America/New_York] PHP Warning:  imagettftext(): Could not find/open font in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 14
+[22-Jan-2017 14:24:50 America/New_York] PHP Notice:  Undefined index: key in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 9
+[22-Jan-2017 14:24:50 America/New_York] PHP Warning:  imagettftext(): Could not find/open font in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 14
+[22-Jan-2017 14:24:58 America/New_York] PHP Warning:  file_get_contents(http://alpha.brick-hill.com/isaiah/card.php): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 6
+[22-Jan-2017 14:46:57 America/New_York] PHP Notice:  Undefined variable: imgData in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[22-Jan-2017 14:46:57 America/New_York] PHP Notice:  Undefined variable: imgData in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[22-Jan-2017 14:46:57 America/New_York] PHP Notice:  Undefined variable: imgData in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[22-Jan-2017 14:52:21 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 11
+[22-Jan-2017 14:55:12 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 11
+[24-Jan-2017 18:10:43 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 11
+[24-Jan-2017 18:11:34 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 11
+[24-Jan-2017 18:12:09 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 11
+[24-Jan-2017 18:14:25 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 12
+[24-Jan-2017 18:58:55 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[24-Jan-2017 18:58:55 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[07-Feb-2017 14:56:07 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[07-Feb-2017 14:56:07 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:37:39 America/New_York] PHP Notice:  Undefined index: key in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 9
+[04-Mar-2017 11:37:39 America/New_York] PHP Warning:  imagettftext(): Could not find/open font in /home/bricflrb/alpha_subdomain/isaiah/card.php on line 14
+[04-Mar-2017 11:38:54 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:38:54 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:39:11 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:39:11 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:39:13 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:39:13 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:39:14 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:39:14 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:39:15 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[04-Mar-2017 11:39:15 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[07-Mar-2017 18:08:49 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 12
+[07-Mar-2017 18:08:49 America/New_York] PHP Fatal error:  Cannot redeclare genKey() (previously declared in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php:12) in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 11
+[07-Mar-2017 18:19:44 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 12
+[07-Mar-2017 18:19:44 America/New_York] PHP Fatal error:  Cannot redeclare genKey() (previously declared in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php:12) in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 11
+[07-Mar-2017 18:21:11 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[07-Mar-2017 18:21:11 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[07-Mar-2017 18:21:12 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[14-Mar-2017 15:44:34 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:06:17 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:06:17 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:06:34 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:06:34 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:06:41 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:06:41 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:06:59 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:08:19 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:15 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:15 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:15 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:15 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:15 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:15 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:15 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:15 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:16 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:16 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:16 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:16 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:16 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:16 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:16 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:16 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:17 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:17 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:17 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:17 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:17 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:17 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:17 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:18 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:19 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:19 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:19 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:19 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:19 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:19 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:19 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[18-Mar-2017 00:09:19 America/New_York] PHP Notice:  Array to string conversion in /home/bricflrb/alpha_subdomain/isaiah/sendemail.php on line 10
+[21-Mar-2017 14:53:25 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 1036223280 bytes) in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 3
+[21-Mar-2017 14:54:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function getrandom() in /home/bricflrb/beta_subdomain/isaiah/uid.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 3
+[21-Mar-2017 14:55:04 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 455578464 bytes) in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 3
+[21-Mar-2017 14:55:05 America/New_York] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 804157464 bytes) in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 3
+[21-Mar-2017 15:16:00 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:13 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:14 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:21 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:22 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:23 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:23 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:16:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:20:09 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:20:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:20:47 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 15:20:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 16:06:14 America/New_York] PHP Notice:  Undefined variable: conn in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6
+[21-Mar-2017 16:06:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/bricflrb/beta_subdomain/isaiah/uid.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/isaiah/uid.php on line 6

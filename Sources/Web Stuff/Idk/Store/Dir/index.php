@@ -1,0 +1,1 @@
+fuck off and stop trying to get into the dir folder you fucking jackass

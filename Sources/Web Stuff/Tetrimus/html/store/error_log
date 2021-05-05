@@ -1,0 +1,6 @@
+[05-Mar-2018 18:03:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tetrimus/public_html/func/connect.php on line 12
+[19-Mar-2018 02:35:00 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home/tetrimus/public_html/store/item.php on line 24
+[19-Mar-2018 02:38:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/tetrimus/public_html/store/item.php on line 24
+[30-Mar-2018 14:53:27 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tetrimus/public_html/store/create.php on line 37
+[02-Apr-2018 23:11:14 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tetrimus/public_html/store/index.php on line 155
+[02-Apr-2018 23:11:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/tetrimus/public_html/store/index.php on line 172

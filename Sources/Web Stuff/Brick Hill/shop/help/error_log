@@ -1,0 +1,123 @@
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 5
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 78
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 78
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 82
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 82
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 83
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 83
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 90
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 90
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 113
+[07-Jan-2017 08:52:18 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 113
+[30-Jan-2017 02:23:31 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 45
+[30-Jan-2017 02:23:31 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 45
+[04-Feb-2017 16:56:16 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 45
+[04-Feb-2017 16:56:16 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 45
+[14-Feb-2017 14:39:30 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 45
+[14-Feb-2017 14:39:30 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 45
+[14-Feb-2017 14:39:44 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 45
+[14-Feb-2017 14:39:44 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 45
+[14-Feb-2017 14:42:26 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:42:26 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:42:29 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:42:29 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:42:52 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:42:52 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:43:45 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:43:45 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:43:46 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:43:46 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:14 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:14 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:25 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:25 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:26 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:26 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:29 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:29 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:36 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:44:36 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:45:02 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:45:02 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:45:03 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:45:03 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:45:13 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:45:13 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:45:40 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 14:45:40 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:32:25 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:32:25 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:35:46 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:35:46 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:36:48 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:36:48 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:37:05 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:37:05 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 5
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 46
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 47
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 86
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 86
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 90
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 90
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 91
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 91
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 98
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 98
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 121
+[14-Feb-2017 22:46:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 121
+[14-Feb-2017 22:46:11 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:46:11 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:47:17 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[14-Feb-2017 22:47:17 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 5
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 46
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 47
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 86
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 86
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 90
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 90
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 91
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 91
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 98
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 98
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 121
+[15-Feb-2017 06:49:10 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 121
+[15-Feb-2017 06:49:10 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[15-Feb-2017 06:49:10 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[15-Feb-2017 06:49:47 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[15-Feb-2017 06:49:47 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[17-Feb-2017 12:53:05 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[17-Feb-2017 12:53:05 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 8
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 28
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 70
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 71
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 110
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 110
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 114
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 114
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 115
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 115
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 122
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 122
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 145
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 145
+[23-Feb-2017 17:18:51 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 168
+[23-Feb-2017 17:18:51 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[23-Feb-2017 17:18:51 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[23-Feb-2017 17:19:22 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[23-Feb-2017 17:19:22 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[04-Mar-2017 11:01:11 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[04-Mar-2017 11:01:11 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[18-Mar-2017 16:43:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 16:43:34 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[18-Mar-2017 16:43:34 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/shop/help/index.php on line 51
+[19-Mar-2017 19:51:55 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/shop/help/index.php on line 51
+[19-Mar-2017 19:51:55 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/shop/help/index.php on line 51
+[19-Mar-2017 19:52:04 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/shop/help/index.php on line 51
+[19-Mar-2017 19:52:04 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/shop/help/index.php on line 51
+[19-Mar-2017 19:52:59 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/shop/help/index.php on line 51
+[19-Mar-2017 19:52:59 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/shop/help/index.php on line 51
+[16-Apr-2017 13:10:13 America/New_York] PHP Warning:  include(../SiT_3/footer.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/shop/help/index.php on line 51
+[16-Apr-2017 13:10:13 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/footer.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/shop/help/index.php on line 51

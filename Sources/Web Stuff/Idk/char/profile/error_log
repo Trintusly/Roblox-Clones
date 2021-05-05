@@ -1,0 +1,4 @@
+[03-Dec-2016 23:13:21 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home2/socialavatar/public_html/char/profile/index.php on line 99
+[03-Dec-2016 23:13:21 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home2/socialavatar/public_html/char/profile/index.php on line 100
+[03-Dec-2016 23:13:23 UTC] PHP Warning:  imagepng() expects parameter 1 to be resource, null given in /home2/socialavatar/public_html/char/profile/index.php on line 99
+[03-Dec-2016 23:13:23 UTC] PHP Warning:  imagedestroy() expects parameter 1 to be resource, null given in /home2/socialavatar/public_html/char/profile/index.php on line 100

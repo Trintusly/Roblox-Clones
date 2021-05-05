@@ -1,0 +1,12 @@
+[15-Apr-2016 14:16:20 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=5) state=0 in /home2/avatarblocks/public_html/support/staff/Maurice.jpg on line 30
+[15-Apr-2016 14:16:20 UTC] PHP Parse error:  syntax error, unexpected 'ù¡∂∑A' (T_STRING) in /home2/avatarblocks/public_html/support/staff/Maurice.jpg on line 30
+[15-Apr-2016 14:18:25 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=5) state=0 in /home2/avatarblocks/public_html/support/staff/Maurice.jpg on line 30
+[15-Apr-2016 14:18:25 UTC] PHP Parse error:  syntax error, unexpected 'ù¡∂∑A' (T_STRING) in /home2/avatarblocks/public_html/support/staff/Maurice.jpg on line 30
+[15-Apr-2016 14:19:27 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=5) state=0 in /home2/avatarblocks/public_html/support/staff/OA.jpg on line 30
+[15-Apr-2016 14:19:27 UTC] PHP Parse error:  syntax error, unexpected 'ù¡∂∑A' (T_STRING) in /home2/avatarblocks/public_html/support/staff/OA.jpg on line 30
+[15-Apr-2016 14:20:51 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=5) state=0 in /home2/avatarblocks/public_html/support/staff/IMG_20160331_025727.jpg on line 30
+[15-Apr-2016 14:20:51 UTC] PHP Parse error:  syntax error, unexpected 'ù¡∂∑A' (T_STRING) in /home2/avatarblocks/public_html/support/staff/IMG_20160331_025727.jpg on line 30
+[15-Apr-2016 14:21:43 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=5) state=0 in /home2/avatarblocks/public_html/support/staff/Maurice.png on line 30
+[15-Apr-2016 14:21:43 UTC] PHP Parse error:  syntax error, unexpected 'ù¡∂∑A' (T_STRING) in /home2/avatarblocks/public_html/support/staff/Maurice.png on line 30
+[15-Apr-2016 14:22:12 UTC] PHP Warning:  Unexpected character in input:  '' (ASCII=5) state=0 in /home2/avatarblocks/public_html/support/staff/Maurice.jpg on line 30
+[15-Apr-2016 14:22:12 UTC] PHP Parse error:  syntax error, unexpected 'ù¡∂∑A' (T_STRING) in /home2/avatarblocks/public_html/support/staff/Maurice.jpg on line 30

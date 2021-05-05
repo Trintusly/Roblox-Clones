@@ -1,0 +1,7 @@
+html, body {
+	font-family: "Comic Sans MS", cursive, sans-serif !important;
+}
+
+.primary, .tab-container, .card .top {
+	background: url("/css/tiling.png") !important;
+}

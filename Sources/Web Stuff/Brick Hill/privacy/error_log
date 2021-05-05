@@ -1,0 +1,251 @@
+[11-Mar-2017 17:24:12 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[11-Mar-2017 17:24:12 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 136
+[11-Mar-2017 17:24:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 136
+[11-Mar-2017 17:24:12 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 137
+[11-Mar-2017 17:24:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 137
+[11-Mar-2017 17:24:12 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 144
+[11-Mar-2017 17:24:12 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 144
+[11-Mar-2017 17:24:12 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 200
+[11-Mar-2017 17:24:12 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 218
+[11-Mar-2017 19:59:30 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[11-Mar-2017 19:59:30 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 136
+[11-Mar-2017 19:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 136
+[11-Mar-2017 19:59:30 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 137
+[11-Mar-2017 19:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 137
+[11-Mar-2017 19:59:30 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 144
+[11-Mar-2017 19:59:30 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 144
+[11-Mar-2017 19:59:30 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 200
+[11-Mar-2017 19:59:30 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 221
+[11-Mar-2017 20:01:05 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[11-Mar-2017 20:01:05 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 136
+[11-Mar-2017 20:01:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 136
+[11-Mar-2017 20:01:05 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 137
+[11-Mar-2017 20:01:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 137
+[11-Mar-2017 20:01:05 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 144
+[11-Mar-2017 20:01:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 144
+[11-Mar-2017 20:01:05 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 200
+[11-Mar-2017 20:01:05 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 221
+[11-Mar-2017 22:25:53 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[11-Mar-2017 22:25:53 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 136
+[11-Mar-2017 22:25:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 136
+[11-Mar-2017 22:25:53 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 137
+[11-Mar-2017 22:25:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 137
+[11-Mar-2017 22:25:53 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 144
+[11-Mar-2017 22:25:53 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 144
+[11-Mar-2017 22:25:53 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 200
+[11-Mar-2017 22:25:53 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 221
+[12-Mar-2017 01:23:47 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 01:23:47 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 01:23:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 01:23:47 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 01:23:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 01:23:47 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 01:23:47 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 01:23:47 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 01:23:47 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 06:01:31 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 06:01:31 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 06:01:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 06:01:31 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 06:01:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 06:01:31 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 06:01:31 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 06:01:31 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 06:01:31 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 12:18:43 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 12:18:43 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 12:18:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 12:18:43 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 12:18:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 12:18:43 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 12:18:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 12:18:43 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 12:18:43 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 14:16:26 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 14:16:26 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 14:16:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 14:16:26 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 14:16:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 14:16:26 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 14:16:26 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 14:16:26 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 14:16:26 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 15:56:42 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 15:56:42 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 15:56:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 15:56:42 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 15:56:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 15:56:42 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 15:56:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 15:56:42 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 15:56:42 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 16:00:36 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 16:00:36 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 16:00:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 16:00:36 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 16:00:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 16:00:36 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 16:00:36 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 16:00:36 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 16:00:36 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 16:00:50 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 16:00:50 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 16:00:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 16:00:50 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 16:00:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 16:00:50 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 16:00:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 16:00:50 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 16:00:50 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 21:40:05 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 21:40:05 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 21:40:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 21:40:05 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 21:40:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 21:40:05 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 21:40:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 21:40:05 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 21:40:05 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 21:42:03 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 21:42:03 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 21:42:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 21:42:03 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 21:42:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 21:42:03 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 21:42:03 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 21:42:03 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 21:42:03 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 21:42:08 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 21:42:08 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 21:42:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 21:42:08 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 21:42:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 21:42:08 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 21:42:08 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 21:42:08 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 21:42:08 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 21:50:29 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 21:50:29 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 21:50:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 21:50:29 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 21:50:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 21:50:29 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 21:50:29 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 21:50:29 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 21:50:29 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 22:18:21 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 22:18:21 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 22:18:21 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 22:18:21 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 22:18:21 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 22:18:21 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 22:18:21 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 22:18:21 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 22:18:21 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[12-Mar-2017 22:55:19 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[12-Mar-2017 22:55:19 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 22:55:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[12-Mar-2017 22:55:19 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 22:55:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[12-Mar-2017 22:55:19 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 22:55:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[12-Mar-2017 22:55:19 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[12-Mar-2017 22:55:19 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[13-Mar-2017 16:18:11 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[13-Mar-2017 16:18:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[13-Mar-2017 16:18:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 140
+[13-Mar-2017 16:18:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[13-Mar-2017 16:18:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 141
+[13-Mar-2017 16:18:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[13-Mar-2017 16:18:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 148
+[13-Mar-2017 16:18:11 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 204
+[13-Mar-2017 16:18:11 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 225
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 53
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 171
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 171
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 172
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 172
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 179
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 179
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 235
+[13-Mar-2017 21:15:34 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 256
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 6
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 53
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 171
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 171
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 172
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 172
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 179
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 179
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 235
+[14-Mar-2017 11:31:11 America/New_York] PHP Notice:  Undefined variable: currentID in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 256
+[15-Mar-2017 19:35:49 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[16-Mar-2017 11:49:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[16-Mar-2017 18:46:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[17-Mar-2017 01:07:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[17-Mar-2017 14:18:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[17-Mar-2017 14:18:28 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[17-Mar-2017 14:18:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[17-Mar-2017 16:59:50 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[17-Mar-2017 16:59:50 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[17-Mar-2017 16:59:50 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[17-Mar-2017 18:46:59 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[17-Mar-2017 18:46:59 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[17-Mar-2017 18:46:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 00:15:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 00:15:19 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 00:15:19 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 02:07:56 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 05:24:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 08:20:52 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 08:21:24 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 09:55:11 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 09:56:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 09:56:28 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 09:56:28 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 10:39:05 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 10:39:05 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 10:39:05 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 12:17:37 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 12:17:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 13:05:41 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 13:24:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 13:24:00 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 13:24:00 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 14:20:22 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 15:05:49 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 15:10:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 15:18:42 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 15:18:42 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 15:18:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 16:58:59 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 16:58:59 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 16:58:59 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/alpha_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 19:27:28 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 20:01:43 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 20:01:43 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/beta_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 20:01:43 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/beta_subdomain/SiT_3/header.php on line 88
+[18-Mar-2017 20:59:14 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 23:00:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 23:00:50 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 03:30:02 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 03:37:17 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 03:37:17 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/beta_subdomain/SiT_3/header.php on line 89
+[19-Mar-2017 03:37:17 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/beta_subdomain/SiT_3/header.php on line 89
+[19-Mar-2017 03:58:34 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 04:27:13 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 05:59:44 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 06:56:25 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 06:56:25 America/New_York] PHP Notice:  Undefined variable: userRow in /home/bricflrb/beta_subdomain/SiT_3/header.php on line 89
+[19-Mar-2017 06:56:25 America/New_York] PHP Notice:  Trying to get property of non-object in /home/bricflrb/beta_subdomain/SiT_3/header.php on line 89
+[19-Mar-2017 09:03:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 09:04:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 09:04:10 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 11:40:20 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 11:42:54 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 11:43:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 12:27:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 13:04:31 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[06-Apr-2017 17:38:25 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/beta_subdomain/SiT_3/header.php on line 110
+[07-Apr-2017 07:59:52 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/beta_subdomain/SiT_3/header.php on line 110

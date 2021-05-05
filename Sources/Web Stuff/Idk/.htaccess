@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^user.php/(.*) user/$1 [R=301]

@@ -1,0 +1,95 @@
+Options +FollowSymLinks
+Options -Indexes
+RewriteEngine on
+
+#RewriteRule user/(.*)/ user.php?id=$1
+#RewriteRule forum/thread/(.*) /forum/thread.php?id=$1
+
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
+
+#redirect to www.
+RewriteCond %{HTTP_HOST} ^brick-hill.com$ [NC]
+RewriteRule (.*) http://www.brick-hill.com/$1 [R=301,L] 
+
+# Hide .php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.+?)/?$ $1.php [NC,L]
+RewriteCond %{THE_REQUEST} "^[^ ]* .*?\.php[? ].*$"
+RewriteRule .* - [L,R=404]
+
+order deny,allow
+# Bans
+deny from all
+deny from 204.10.220.122
+deny from 78.108.46.137 #User459
+deny from 162.244.33.57 #Potential DDoS
+deny from 94.177.237.55 #Potential DDoS
+deny from 94.177.180.119 #Potential DDoS
+deny from 77.81.120.139 #Potential DDoS
+deny from 81.2.236.151 #Potential DDoS
+deny from 85.204.124.10 #Potential DDoS
+deny from 195.154.65.110 #Potential DDoS
+deny from 211.34.219.223 #Potential DDoS
+deny from 207.154.205.235 #Potential DDoS
+deny from 1.254.195.253 #Potential DDoS
+deny from 2.218.194.133 #Potential DDoS
+deny from 188.213.168.111 #Potential DDoS
+
+deny from 104.131.14.247 #Maybe DDoS
+deny from 142.4.206.146 #Maybe DDoS
+deny from 172.93.98.242 #Maybe DDoS
+deny from 109.90.169.147 #Maybe DDoS
+deny from 86.123.47.221 #Maybe DDoS
+deny from 66.102.9.44 #Maybe DDoS
+deny from 208.58.110.252 #Maybe DDoS
+deny from 159.205.210.173 #Maybe DDoS
+deny from 162.252.84.28 #Maybe DDoS
+deny from 76.190.134.54 #Maybe DDoS
+deny from 173.18.161.193 #Maybe DDoS
+deny from 71.183.252.233 #Maybe DDoS
+deny from 212.50.180.140 #Maybe DDoS
+deny from 186.120.210.83 #Maybe DDoS
+deny from 173.218.71.20 #Maybe DDoS
+deny from 98.14.196.251 #Maybe DDoS
+deny from 67.246.49.142 #Maybe DDoS
+deny from 180.250.19.92 #Maybe DDoS
+deny from 159.203.163.243 #Maybe DDoS
+deny from 192.95.55.60 #Maybe DDoS
+deny from 138.122.202.211 #Maybe DDoS
+
+#deny from 67.246.49.142 #User 'Build' - threatening to DDoS aka edgar
+
+allow from 174.100.173.102
+allow from 50.134.224.170
+allow from 24.59.175.109
+allow from 86.179.101.205
+allow from 82.21.246.202
+allow from 173.88.19.189
+allow from 109.147.202.36
+allow from 86.175.209.219
+allow from 120.147.15.59
+allow from 98.219.19.170
+allow from 109.147.207.38
+allow from 80.193.247.115
+allow from 86.175.209.101
+allow from 64.62.175.40
+allow from 31.51.180.6
+allow from 64.62.175.59
+allow from 86.31.123.198
+allow from 64.113.177.152 #techs school 3 (our school is gay with their ips)
+allow from 64.113.177.153 #techs school 2
+allow from 64.113.177.151 #techs school 1
+allow from 31.51.179.212
+allow from 65.49.14.158 # luke's school lol
+allow from 64.71.171.68  # luke's school again
+allow from 64.71.171.84 #jesus christ luke again
+# why do you have so many luke 
+Options +ExecCGI
+AddHandler cgi-script .py
+
+#########nodejs
+Action     cgi-node     /cgi-bin/cgi-node.js 
+AddHandler cgi-node     .jscript
+############

@@ -1,0 +1,34 @@
+// new_brick(x,y,z,xsize,ysize,zsize,color,alpha)
+var brick;
+brick = instance_create(0,0,obj_brick);
+brick.x = argument0;
+brick.y = argument1;
+brick.z = argument2;
+brick.xs = argument3;
+brick.ys = argument4;
+brick.zs = argument5;
+brick.color = argument6;
+brick.alpha = argument7;
+brick.brickID = -1;
+brick.shape = "";
+brick.rotation = 0;
+brick.script = "";
+brick.north = "";
+brick.east = "";
+brick.south = "";
+brick.west = "";
+brick.model = "";
+brick.bound = GmnCreateBox(global.set,brick.xs,brick.ys,brick.zs,brick.xs/2,brick.ys/2,brick.zs/2);
+brick.body = GmnCreateBody(global.set,brick.bound);
+GmnBodySetPosition(brick.body,brick.x,brick.y,brick.z);
+brick.light_range = 0;
+brick.light_color = 0;
+brick.Light = false;
+brick.collision = 0;
+brick.isVisible = true;
+brick.TexDownload = -1;
+brick.ModDownload = -1;
+brick.Model = -1;
+brick.Tex = -1;
+brick.clickable = false
+return brick;

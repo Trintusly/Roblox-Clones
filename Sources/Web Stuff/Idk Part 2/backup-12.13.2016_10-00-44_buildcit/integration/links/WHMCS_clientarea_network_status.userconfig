@@ -1,0 +1,10 @@
+{
+   "url" : "https://viewen.com/free-hosting/serverstatus.php?ssoredirect=1",
+   "implements" : "",
+   "group_id" : "whmcs",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAk1BMVEUAAAAlMjyJkJXl5eXl5eXl5eXl5eXl5eUlMjzt7e0lMjzl5eUlMjwrOj4wMzgxQj8yOz03S0E6NDU9U0M/RD5DW0RFNDFMTEBQNS1VX2ZVdElaVUFafEtslFBwOCJweH57OR9+rVSBcESEtVaFjJGJkJWOeUaWm6CbOxOdoqaoiki1k0nFPgXQPwHl5eXt7e33v0/68qlqAAAADHRSTlMAQEBAYI+fv9/f7++oUs8VAAAAxElEQVR42t3VSxKCMBBF0cbwBxHBD4IKKqCoAfe/OkPKBfQbOIA7yiCnKj1J0ywSlsPOFkRmD2VSgIGAerARdAdm3Q/UIbN6WqAsWSDJsizS94ehZIDkLaV8jKdmGBoOkCAId1V1jhCgQ8C+ba8xADYf1QsFTz5QoiiK+K9Db/M8XwNgdVOdALC8KHDkAyXSNNWHu+dBQ/sLooUPAINUBh+4pHNhgD4JGVoJAxha5brwNzMhgH/3YPDKwpciCdthZwmaQ19v/qpOiFo6XwAAAABJRU5ErkJggg==",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Anetwork_status&module_type=server&module=cpanel",
+   "label" : "Check Network Status"
+}

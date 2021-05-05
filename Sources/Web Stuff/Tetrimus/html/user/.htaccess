@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule !\.(gif|jpg|png|css)$ /var/www/html/user/index.php

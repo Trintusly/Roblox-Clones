@@ -1,0 +1,1 @@
+console.log('%cDo not post anything in here from another user, they may be trying to steal your account.', 'color: red; font-size: 20px');

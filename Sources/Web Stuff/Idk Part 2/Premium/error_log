@@ -1,0 +1,10 @@
+[10-Aug-2016 02:24:03 CST6CDT] PHP Warning:  include(/Header.php): failed to open stream: No such file or directory in /home/minebuil/public_html/Premium/ThankYou.php on line 2
+[10-Aug-2016 02:24:03 CST6CDT] PHP Warning:  include(): Failed opening '/Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/minebuil/public_html/Premium/ThankYou.php on line 2
+[10-Aug-2016 02:24:03 CST6CDT] PHP Warning:  include(/Footer.php): failed to open stream: No such file or directory in /home/minebuil/public_html/Premium/ThankYou.php on line 6
+[10-Aug-2016 02:24:03 CST6CDT] PHP Warning:  include(): Failed opening '/Footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/minebuil/public_html/Premium/ThankYou.php on line 6
+[12-Aug-2016 05:30:49 CST6CDT] PHP Warning:  include(/Header.php): failed to open stream: No such file or directory in /home/minebuil/public_html/Premium/ThankYou.php on line 2
+[12-Aug-2016 05:30:49 CST6CDT] PHP Warning:  include(): Failed opening '/Header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/minebuil/public_html/Premium/ThankYou.php on line 2
+[12-Aug-2016 05:30:49 CST6CDT] PHP Warning:  include(/Footer.php): failed to open stream: No such file or directory in /home/minebuil/public_html/Premium/ThankYou.php on line 6
+[12-Aug-2016 05:30:49 CST6CDT] PHP Warning:  include(): Failed opening '/Footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/minebuil/public_html/Premium/ThankYou.php on line 6
+[11-Dec-2016 04:42:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'row' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/Premium/UpgradeAccount.php on line 11
+[11-Dec-2016 04:45:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'center' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/Premium/UpgradeAccount.php on line 13

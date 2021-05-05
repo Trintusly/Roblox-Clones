@@ -1,0 +1,55 @@
+[22-Mar-2017 18:48:09 America/New_York] PHP Warning:  include(../SiT_3/config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/list/add/index.php on line 3
+[22-Mar-2017 18:48:09 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/list/add/index.php on line 3
+[22-Mar-2017 18:48:09 America/New_York] PHP Warning:  include(../SiT_3/header.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/list/add/index.php on line 4
+[22-Mar-2017 18:48:09 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/list/add/index.php on line 4
+[22-Mar-2017 18:48:09 America/New_York] PHP Warning:  include(../SiT_3/PHP/helper.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/list/add/index.php on line 5
+[22-Mar-2017 18:48:09 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/PHP/helper.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/list/add/index.php on line 5
+[22-Mar-2017 18:48:09 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/beta_subdomain/list/add/index.php on line 7
+[22-Mar-2017 18:48:13 America/New_York] PHP Warning:  include(../SiT_3/config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/list/add/index.php on line 3
+[22-Mar-2017 18:48:13 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/list/add/index.php on line 3
+[22-Mar-2017 18:48:13 America/New_York] PHP Warning:  include(../SiT_3/header.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/list/add/index.php on line 4
+[22-Mar-2017 18:48:13 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/header.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/list/add/index.php on line 4
+[22-Mar-2017 18:48:13 America/New_York] PHP Warning:  include(../SiT_3/PHP/helper.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/list/add/index.php on line 5
+[22-Mar-2017 18:48:13 America/New_York] PHP Warning:  include(): Failed opening '../SiT_3/PHP/helper.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/list/add/index.php on line 5
+[22-Mar-2017 18:48:13 America/New_York] PHP Notice:  Undefined variable: power in /home/bricflrb/beta_subdomain/list/add/index.php on line 7
+[22-Mar-2017 18:48:33 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[22-Mar-2017 18:48:33 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[22-Mar-2017 18:48:33 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[22-Mar-2017 18:49:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[22-Mar-2017 18:49:26 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[22-Mar-2017 18:49:26 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[22-Mar-2017 18:49:46 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[22-Mar-2017 18:49:46 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[22-Mar-2017 18:49:46 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[22-Mar-2017 18:50:09 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[22-Mar-2017 18:50:09 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[22-Mar-2017 18:50:09 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 12:02:04 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[23-Mar-2017 12:02:04 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 12:02:04 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 13:42:05 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[23-Mar-2017 13:42:05 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 13:42:05 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 14:16:01 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[23-Mar-2017 14:16:01 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 14:16:01 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 14:16:06 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[23-Mar-2017 14:16:06 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 14:16:06 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 14:19:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[23-Mar-2017 14:19:19 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[23-Mar-2017 14:19:19 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[25-Mar-2017 13:42:40 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[25-Mar-2017 13:42:40 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[25-Mar-2017 13:42:40 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[25-Mar-2017 13:42:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[25-Mar-2017 13:42:45 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[25-Mar-2017 13:42:45 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[05-Apr-2017 05:05:28 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[05-Apr-2017 05:05:28 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[05-Apr-2017 05:05:33 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[05-Apr-2017 05:05:33 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[05-Apr-2017 05:15:16 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[05-Apr-2017 05:15:16 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[05-Apr-2017 05:17:09 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[05-Apr-2017 05:17:09 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3

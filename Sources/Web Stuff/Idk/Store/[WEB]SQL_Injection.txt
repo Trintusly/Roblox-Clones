@@ -1,0 +1,1827 @@
+IP: 70.209.73.179
+Method: GET
+Value: 10'
+Script: 
+Time: Saturday 16th 2016f April 2016 04:18:08 PM
+==================================
+IP: 70.209.73.179
+Method: GET
+Value: 1'
+Script: 
+Time: Saturday 16th 2016f April 2016 04:18:13 PM
+==================================
+IP: 70.209.73.179
+Method: GET
+Value: 1'
+Script: 
+Time: Saturday 16th 2016f April 2016 04:19:16 PM
+==================================
+IP: 86.16.243.211
+Method: POST
+Value: Jack's Beard
+Script: 
+Time: Saturday 16th 2016f April 2016 04:29:48 PM
+==================================
+IP: 86.16.243.211
+Method: POST
+Value: Jack's Beard
+Script: 
+Time: Saturday 16th 2016f April 2016 05:03:10 PM
+==================================
+IP: 67.1.9.78
+Method: GET
+Value: 13'
+Script: 
+Time: Saturday 16th 2016f April 2016 07:09:27 PM
+==================================
+IP: 76.69.152.33
+Method: POST
+Value: Rare V%tar
+Script: 
+Time: Saturday 16th 2016f April 2016 09:04:52 PM
+==================================
+IP: 76.69.152.33
+Method: POST
+Value: Rare V%tar
+Script: 
+Time: Saturday 16th 2016f April 2016 09:05:27 PM
+==================================
+IP: 76.69.152.33
+Method: POST
+Value: Rare V%tar
+Script: 
+Time: Saturday 16th 2016f April 2016 09:05:55 PM
+==================================
+IP: 76.69.152.33
+Method: POST
+Value: Rare V%tar
+Script: 
+Time: Saturday 16th 2016f April 2016 09:06:05 PM
+==================================
+IP: 76.69.152.33
+Method: POST
+Value: Rare V%tar
+Script: 
+Time: Saturday 16th 2016f April 2016 09:06:29 PM
+==================================
+IP: 76.69.152.33
+Method: POST
+Value: Half F%ture
+Script: 
+Time: Saturday 16th 2016f April 2016 09:09:26 PM
+==================================
+IP: 64.62.175.37
+Method: POST
+Value: I've discovered a new element!
+Neatonium.
+c:
+Script: 
+Time: Tuesday 13th 2016f December 2016 06:21:26 PM
+==================================
+IP: 189.24.81.90
+Method: POST
+Value: :>D Face
+Script: 
+Time: Tuesday 13th 2016f December 2016 06:49:09 PM
+==================================
+IP: 64.62.175.37
+Method: POST
+Value: A very bad bootleg, I'm reporting this...
+Script: 
+Time: Tuesday 13th 2016f December 2016 07:05:31 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 06:38:34 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 06:39:27 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 06:40:03 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 06:40:06 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 06:40:10 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 07:46:25 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 07:46:28 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 07:46:31 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 08:59:19 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 08:59:24 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 08:59:29 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 08:59:35 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 08:59:37 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 09:03:01 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 09:03:09 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 09:03:10 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 09:03:15 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"distinct_id": "158ff8f52ce1-05bbe5ad4ed06b-59123916-100200-158ff8f52cf34","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Wednesday 14th 2016f December 2016 09:03:20 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"538115528":"false","543282879":"gc","548712195":"none","561511611":"search","1201662127":"true","1370080040":"true","1375389221":"true","2710330523":"true"}
+Script: 
+Time: Wednesday 14th 2016f December 2016 09:56:30 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"538115528":"false","543282879":"gc","548712195":"none","561511611":"search","1201662127":"true","1370080040":"true","1375389221":"true","2710330523":"true"}
+Script: 
+Time: Wednesday 14th 2016f December 2016 09:56:38 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"538115528":"false","543282879":"gc","548712195":"none","561511611":"search","1201662127":"true","1370080040":"true","1375389221":"true","2710330523":"true"}
+Script: 
+Time: Wednesday 14th 2016f December 2016 09:56:43 PM
+==================================
+IP: 185.22.173.146
+Method: COOKIE
+Value: {"538115528":"false","543282879":"gc","548712195":"none","561511611":"search","1201662127":"true","1370080040":"true","1375389221":"true","2710330523":"true"}
+Script: 
+Time: Wednesday 14th 2016f December 2016 09:56:49 PM
+==================================
+IP: 208.58.110.252
+Method: POST
+Value: Mark's Blue Katana of Degeneration
+Script: 
+Time: Friday 16th 2016f December 2016 02:59:30 PM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: Don't look directly into it's deceiving eyes, you may just turn to stone.
+Script: 
+Time: Friday 16th 2016f December 2016 03:58:52 PM
+==================================
+IP: 184.174.132.223
+Method: POST
+Value: The only god who's pure.
+Script: 
+Time: Friday 16th 2016f December 2016 04:07:06 PM
+==================================
+IP: 184.174.132.223
+Method: POST
+Value: Snoop Dogg's Plant
+Script: 
+Time: Friday 16th 2016f December 2016 06:29:40 PM
+==================================
+IP: 184.174.132.223
+Method: POST
+Value: You need to be able to see, don't you?
+Script: 
+Time: Friday 16th 2016f December 2016 07:16:32 PM
+==================================
+IP: 104.138.147.144
+Method: POST
+Value: p;dfgsgsg
+Script: 
+Time: Friday 16th 2016f December 2016 07:36:41 PM
+==================================
+IP: 104.138.147.144
+Method: POST
+Value: I don't own this item.
+Script: 
+Time: Friday 16th 2016f December 2016 08:23:48 PM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: *This item is a considered "Eyes", so you may wear hats, and faces along with it.
+Script: 
+Time: Saturday 17th 2016f December 2016 08:45:37 AM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: *This item is a considered "Face", so you may wear hats, and eyes along with it.
+Script: 
+Time: Saturday 17th 2016f December 2016 08:46:08 AM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: Eye's so you can wear these slick shades with a face, and a hat!
+Script: 
+Time: Saturday 17th 2016f December 2016 09:24:16 AM
+==================================
+IP: 138.197.2.151
+Method: POST
+Value: It's terrible
+- btw it's says one copy sold and I didn't receive any currency...
+
+Script: 
+Time: Saturday 17th 2016f December 2016 10:00:15 AM
+==================================
+IP: 208.58.110.252
+Method: POST
+Value: Look, we don't sell hypnotizers here.
+We sell BUCKET-tizers.
+Script: 
+Time: Saturday 17th 2016f December 2016 10:01:34 AM
+==================================
+IP: 208.58.110.252
+Method: POST
+Value: I didn't do it! That guy over there did it!
+Script: 
+Time: Saturday 17th 2016f December 2016 12:13:35 PM
+==================================
+IP: 184.174.132.223
+Method: POST
+Value: Maybe you could use it on that paper guy across the street? Or you can just write with it. That's fine.
+Script: 
+Time: Saturday 17th 2016f December 2016 06:00:31 PM
+==================================
+IP: 184.174.132.223
+Method: POST
+Value: Maybe you could use it on that paper guy across the street? Or you can just write with it. That's fine.
+Script: 
+Time: Saturday 17th 2016f December 2016 06:00:49 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: I can't play Game of War because this one player keeps kicking my ass. 
+Script: 
+Time: Saturday 17th 2016f December 2016 06:30:40 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum you're in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please don't spam!
+You should only post topics related to the topic you're posting in, and the topic you're discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Don't share personal information. It isn't safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. It's just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Don't post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum you're posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that you'll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! We're here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:48:56 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum you're in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please don't spam!
+You should only post topics related to the topic you're posting in, and the topic you're discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Don't share personal information. It isn't safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. It's just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Don't post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum you're posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that you'll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! We're here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:49:26 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum you're in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please don't spam!
+You should only post topics related to the topic you're posting in, and the topic you're discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Don't share personal information. It isn't safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. It's just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Don't post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum you're posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that you'll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! We're here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:49:39 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum you're in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please don't spam!
+You should only post topics related to the topic you're posting in, and the topic you're discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Don't share personal information. It isn't safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. It's just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Don't post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum you're posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that you'll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! We're here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:50:58 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum you're in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please don't spam!
+You should only post topics related to the topic you're posting in, and the topic you're discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Don't share personal information. It isn't safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. It's just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Don't post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum you're posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that you'll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! We're here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:51:19 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum you're in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please don't spam!
+You should only post topics related to the topic you're posting in, and the topic you're discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Don't share personal information. It isn't safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. It's just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Don't post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum you're posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that you'll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! We're here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:51:53 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:54:51 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:55:11 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:56:09 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:56:36 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 06:57:04 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 07:07:12 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 07:11:56 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 07:12:52 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 07:12:58 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 07:13:06 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 07:13:13 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 07:13:45 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 07:15:03 PM
+==================================
+IP: 24.196.8.202
+Method: POST
+Value: Hello, community! Welcome to the forums! Here, you may seek help from our admins and community members. You may also discuss topics related to the subforum youre in. In addition to our terms of service, we have created these forum guidelines for our users to follow. At certain times, BrickPlanet staff members may pin temporary threads that are to be followed as well as these guidelines. 
+
+1. Please dont spam!
+You should only post topics related to the topic youre posting in, and the topic youre discussing should be relevant. Spamming threads, posting advertisements, talking about your post count, ect. are all considered spam. Please keep the forum full of quality material!
+
+2. Dont share personal information. It isnt safe!
+You should keep all real life information about yourself, to yourself. No one else should be welcome to know your personal information! Phone numbers, email addresses, your real name, and your home address are all confidential information. You should also refrain from asking other users for their personal information. Its just not safe!
+
+3. Do not discuss real life tragedies.
+Real world events that involve sensitive topics should not be talked about on BrickPlanet. You are free to create groups commemorating the lives of those lost in real world tragedies, but please keep these topics away from the forums.
+
+4. Do not post offsite links that are not permitted via our terms of service.
+Offsite links can be harmful, both to you and your computer. You should never visit websites that you do not trust! BrickPlanet has allowed certain, admin approved offsite links (as per our terms) that you are allowed to post. Those links are:
+
+Youtube.com and its URL shortener/subdomains (i.e. youtu.be/help.youtube.com)
+Gyazo.com (screenshot program links)
+Twitter.com and its subdomains (i.e. t.co)
+Imgur.com (image uploading website)
+Prntscr.com (screenshot program links) and its subdomains (i.e. prnt.sc)
+Trello.com
+
+In addition to this rule, moderators may review links and ban based on the content at the link. You should also link to "appropriate for all" content only!
+
+5. Do not harass, troll, or put down others!
+Be mature! Everyone here uses the same website. You should not be excluding anyone from the forums or trying to make the site an unenjoyable place to go. Instead, you should encourage new players and show them the ropes!
+
+6. Dont post on inappropriate threads. Report them instead!
+We appreciate it when people want to help the community by calling someone out on their inappropriate forum post, but this just bumps the post and brings it to the top of the forum. Instead, report the content by using the report abuse button so that a moderator can take care of it! 
+
+7. Post in the correct subforum!
+We know that the tumbleweeds fly in certain subforums, but please post topics related to the subforum youre posting in. Threads not pertaining to a subforum will merely be moved anyways, so it is a bit silly to break this rule to begin with.
+
+8. Do not repost your deleted thread.
+Posts deleted or moved by community moderators were deleted or moved for a reason. Instead of reposting them, you should message an online moderator and ask how the thread violated the rules so that youll have a better understanding about our terms.
+
+9. BrickPlanet staff and moderators are exempt from the rules!
+BrickPlanet City staff members, moderators, directors, and other staff are exempt from rules we have for our users. This means that they can link to certain websites or post threads not pertaining to subforums. Our staff abide by a separate policy and are therefore excused from our forum and community guidelines. You should take heed to advice given by our staff members! Were here to help, and our inboxes are always open!
+Script: 
+Time: Saturday 17th 2016f December 2016 07:15:08 PM
+==================================
+IP: 184.174.132.223
+Method: POST
+Value: You're a wizard, harry!
+Script: 
+Time: Saturday 17th 2016f December 2016 09:05:11 PM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: In lucem effundens super omnes inmortales.
+
+Created by Daniel & Bux
+Script: 
+Time: Sunday 18th 2016f December 2016 07:45:00 AM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: In lucem effundens super omnes inmortales.
+
+Created by Daniel & Bux
+Script: 
+Time: Sunday 18th 2016f December 2016 08:51:39 AM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: In lucem effundens super omnes inmortales.
+
+Created by Daniel & Bux
+Script: 
+Time: Sunday 18th 2016f December 2016 10:36:20 AM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:22:49 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:25:06 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:25:43 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:25:44 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:25:56 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:26:53 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:31:53 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:34:06 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:34:17 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:34:20 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:34:24 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:34:39 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:35:27 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:35:29 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:36:00 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:36:18 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:37:20 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:37:33 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:44:53 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:45:24 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:45:54 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:46:00 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:46:08 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:46:16 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:46:23 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:46:31 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:46:36 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:46:41 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:48:01 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:48:20 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 06:48:24 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 11:03:12 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 11:03:16 PM
+==================================
+IP: 195.88.208.155
+Method: COOKIE
+Value: {"distinct_id": "15913f2b0662d-084ed831bfdfff-58133b15-100200-15913f2b06730","$initial_referrer": "$direct","$initial_referring_domain": "$direct","showInductionPopup": false}
+Script: 
+Time: Sunday 18th 2016f December 2016 11:03:21 PM
+==================================
+IP: 64.62.175.73
+Method: POST
+Value: Either way, this isn't a wanderer.
+i make wanderers, please change the name
+Script: 
+Time: Sunday 18th 2016f December 2016 11:07:44 PM
+==================================
+IP: 64.62.175.84
+Method: POST
+Value: Please just change the name...
+It isn't a wanderer and you know it, don't steal my series name.
+Script: 
+Time: Sunday 18th 2016f December 2016 11:12:38 PM
+==================================
+IP: 50.189.66.193
+Method: POST
+Value: Rob's Bucket of Rekters
+Script: 
+Time: Monday 19th 2016f December 2016 07:30:54 PM
+==================================
+IP: 50.189.66.193
+Method: POST
+Value: Rob's Bucket of Rekters
+Script: 
+Time: Monday 19th 2016f December 2016 07:32:13 PM
+==================================
+IP: 187.79.188.19
+Method: GET
+Value: Hat-->ok
+Script: 
+Time: Tuesday 20th 2016f December 2016 10:29:17 AM
+==================================
+IP: 187.79.188.19
+Method: GET
+Value: Hat'';!--"<XSS>=
+Script: 
+Time: Tuesday 20th 2016f December 2016 10:30:00 AM
+==================================
+IP: 71.79.50.243
+Method: POST
+Value: This is probably the best item you'll ever release.
+Script: 
+Time: Tuesday 20th 2016f December 2016 01:20:14 PM
+==================================
+IP: 71.79.50.243
+Method: POST
+Value: I can't? v
+Script: 
+Time: Tuesday 20th 2016f December 2016 01:41:01 PM
+==================================
+IP: 78.96.139.204
+Method: POST
+Value: @Rag it doesn't show the buy button for me, sir
+Script: 
+Time: Tuesday 20th 2016f December 2016 01:41:24 PM
+==================================
+IP: 50.189.66.193
+Method: POST
+Value: RobRekt's Bucket of Death
+Script: 
+Time: Tuesday 20th 2016f December 2016 01:50:43 PM
+==================================
+IP: 50.189.66.193
+Method: POST
+Value: RobRekt's is coming! RUN!!!
+Script: 
+Time: Tuesday 20th 2016f December 2016 01:53:19 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: Got it <3
+Script: 
+Time: Tuesday 20th 2016f December 2016 02:14:50 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: Testing things, thats why it's 100 cash
+Script: 
+Time: Tuesday 20th 2016f December 2016 02:32:40 PM
+==================================
+IP: 71.79.50.243
+Method: POST
+Value: Chaos's plaid vest
+Script: 
+Time: Tuesday 20th 2016f December 2016 02:51:06 PM
+==================================
+IP: 71.79.50.243
+Method: POST
+Value: Chaos's plaid vest
+Script: 
+Time: Tuesday 20th 2016f December 2016 03:06:58 PM
+==================================
+IP: 71.79.50.243
+Method: POST
+Value: Chaos 's plaid vest
+Script: 
+Time: Tuesday 20th 2016f December 2016 03:07:04 PM
+==================================
+IP: 125.237.150.64
+Method: POST
+Value: Won't let me buy.. :(
+Script: 
+Time: Tuesday 20th 2016f December 2016 04:28:01 PM
+==================================
+IP: 74.76.224.46
+Method: POST
+Value: put for 50 and I'll buy
+Script: 
+Time: Tuesday 20th 2016f December 2016 04:35:24 PM
+==================================
+IP: 50.189.66.193
+Method: POST
+Value: Win this in RobRekt's Giveaways.
+Script: 
+Time: Tuesday 20th 2016f December 2016 05:12:01 PM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: Santa's Hat
+Script: 
+Time: Tuesday 20th 2016f December 2016 05:47:43 PM
+==================================
+IP: 50.189.66.193
+Method: POST
+Value: RobRekt's Favorite Face
+Script: 
+Time: Tuesday 20th 2016f December 2016 07:48:43 PM
+==================================
+IP: 24.59.175.109
+Method: GET
+Value: 24'
+Script: 
+Time: Tuesday 20th 2016f December 2016 07:54:08 PM
+==================================
+IP: 24.59.175.109
+Method: GET
+Value: 24"
+Script: 
+Time: Tuesday 20th 2016f December 2016 07:54:10 PM
+==================================
+IP: 184.0.226.19
+Method: POST
+Value: ;)
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:05:01 PM
+==================================
+IP: 24.151.195.173
+Method: POST
+Value: Harambe's
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:24:58 PM
+==================================
+IP: 24.151.195.173
+Method: POST
+Value: harambe's face
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:41:22 PM
+==================================
+IP: 24.151.195.173
+Method: POST
+Value: harambe's face
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:43:08 PM
+==================================
+IP: 24.151.195.173
+Method: POST
+Value: harambe's face
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:43:16 PM
+==================================
+IP: 24.151.195.173
+Method: POST
+Value: harambe's face
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:43:49 PM
+==================================
+IP: 24.151.195.173
+Method: POST
+Value: polar harambe's face (placing bets soon)
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:48:00 PM
+==================================
+IP: 99.35.171.33
+Method: POST
+Value: Watch out, or else you'll be rekted!
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:48:53 PM
+==================================
+IP: 99.35.171.33
+Method: POST
+Value: There 's always someone who loves these...
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:50:21 PM
+==================================
+IP: 99.35.171.33
+Method: POST
+Value: Santa's coming soon, so be nice!
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:51:49 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: Player's Bad Side
+Script: 
+Time: Tuesday 20th 2016f December 2016 08:58:46 PM
+==================================
+IP: 99.35.171.33
+Method: POST
+Value: Haha, joke's on you!
+Script: 
+Time: Tuesday 20th 2016f December 2016 10:27:54 PM
+==================================
+IP: 99.35.171.33
+Method: POST
+Value: Haha, joke's on you!
+Script: 
+Time: Tuesday 20th 2016f December 2016 10:29:12 PM
+==================================
+IP: 99.35.171.33
+Method: POST
+Value: Haha, joke's on you!
+Script: 
+Time: Tuesday 20th 2016f December 2016 10:30:29 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: I'll wait
+Script: 
+Time: Tuesday 20th 2016f December 2016 10:42:07 PM
+==================================
+IP: 99.35.171.33
+Method: POST
+Value: Ha, joke's on you!
+Script: 
+Time: Tuesday 20th 2016f December 2016 10:46:55 PM
+==================================
+IP: 99.35.171.33
+Method: POST
+Value: Ha, joke's on you!
+Script: 
+Time: Tuesday 20th 2016f December 2016 10:53:43 PM
+==================================
+IP: 104.53.137.15
+Method: POST
+Value: This guy doesn't believe ANYTHING
+Script: 
+Time: Tuesday 20th 2016f December 2016 10:58:26 PM
+==================================
+IP: 104.53.137.15
+Method: POST
+Value: He doesn't believe anyone
+Script: 
+Time: Tuesday 20th 2016f December 2016 11:21:55 PM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: 1. significantly more absurd than ridiculous to an almost impossible extreme; without possibility of serious consideration.
+
+Script: 
+Time: Wednesday 21st 2016f December 2016 08:08:50 AM
+==================================
+IP: 166.137.102.28
+Method: POST
+Value: Can't buy no button
+Script: 
+Time: Wednesday 21st 2016f December 2016 08:09:33 AM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: Bucketness at it's best.
+Script: 
+Time: Wednesday 21st 2016f December 2016 08:35:37 AM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: Teh' arts of PWNAGE at its best.
+Script: 
+Time: Wednesday 21st 2016f December 2016 08:37:33 AM
+==================================
+IP: 71.79.50.243
+Method: POST
+Value: Chaos' s plaid vest [Reuploaded}
+Script: 
+Time: Wednesday 21st 2016f December 2016 02:27:21 PM
+==================================
+IP: 71.79.50.243
+Method: POST
+Value: Can't stop the funk
+Script: 
+Time: Wednesday 21st 2016f December 2016 02:30:18 PM
+==================================
+IP: 71.79.50.243
+Method: POST
+Value: Still messed up on the template bit, but it's just a reupload.:P
+Script: 
+Time: Wednesday 21st 2016f December 2016 02:59:00 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: Player's Shades
+Script: 
+Time: Wednesday 21st 2016f December 2016 03:22:04 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: Player's Shades
+Script: 
+Time: Wednesday 21st 2016f December 2016 03:31:15 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: Player's Shades
+Script: 
+Time: Wednesday 21st 2016f December 2016 03:31:50 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: You're a mischevious one aren't you?
+Script: 
+Time: Wednesday 21st 2016f December 2016 03:38:51 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: Can't buy
+Script: 
+Time: Wednesday 21st 2016f December 2016 04:39:38 PM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: It's only 20.
+Script: 
+Time: Wednesday 21st 2016f December 2016 04:43:44 PM
+==================================
+IP: 71.199.208.150
+Method: POST
+Value: That's how I roll B)
+Script: 
+Time: Wednesday 21st 2016f December 2016 05:32:47 PM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: Cup o' Memes
+Script: 
+Time: Wednesday 21st 2016f December 2016 05:41:08 PM
+==================================
+IP: 70.50.62.177
+Method: POST
+Value: xb1's cup of mems
+Script: 
+Time: Wednesday 21st 2016f December 2016 05:41:26 PM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: Cup O' Memes
+Script: 
+Time: Wednesday 21st 2016f December 2016 05:43:15 PM
+==================================
+IP: 76.22.180.196
+Method: POST
+Value: Cup O' Memes = Legendary
+Script: 
+Time: Wednesday 21st 2016f December 2016 05:43:15 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: Player's Bad Side
+Script: 
+Time: Wednesday 21st 2016f December 2016 05:55:11 PM
+==================================
+IP: 75.154.181.177
+Method: POST
+Value: 3;
+Script: 
+Time: Wednesday 21st 2016f December 2016 10:19:55 PM
+==================================
+IP: 99.32.148.179
+Method: POST
+Value: I made it <3
+Script: 
+Time: Wednesday 21st 2016f December 2016 10:30:13 PM
+==================================
+IP: 167.114.102.230
+Method: COOKIE
+Value: "Yk8xVEVRbyMjI3dlUzZ7RWY1WUljQzpuY2I0LW0sak1uLXQjIyMvZjNbbkMwZ3tdL11wOjVhfVRwUzRlR1k="
+Script: 
+Time: Thursday 22nd 2016f December 2016 06:10:24 AM
+==================================
+IP: 167.114.102.230
+Method: COOKIE
+Value: s=1482408513174&r=http://server5.kproxy.com/servlet/redirect.srv/sruj/sgywnbf/scljhz/p2/Forum/ShowForum.aspx?ForumID=35
+Script: 
+Time: Thursday 22nd 2016f December 2016 06:10:24 AM
+==================================
+IP: 167.114.102.230
+Method: COOKIE
+Value: "Yk8xVEVRbyMjI3dlUzZ7RWY1WUljQzpuY2I0LW0sak1uLXQjIyMvZjNbbkMwZ3tdL11wOjVhfVRwUzRlR1k="
+Script: 
+Time: Thursday 22nd 2016f December 2016 06:10:25 AM
+==================================
+IP: 167.114.102.230
+Method: COOKIE
+Value: s=1482408513174&r=http://server5.kproxy.com/servlet/redirect.srv/sruj/sgywnbf/scljhz/p2/Forum/ShowForum.aspx?ForumID=35
+Script: 
+Time: Thursday 22nd 2016f December 2016 06:10:25 AM
+==================================
+IP: 167.114.102.230
+Method: COOKIE
+Value: "Yk8xVEVRbyMjI3dlUzZ7RWY1WUljQzpuY2I0LW0sak1uLXQjIyMvZjNbbkMwZ3tdL11wOjVhfVRwUzRlR1k="
+Script: 
+Time: Thursday 22nd 2016f December 2016 06:10:38 AM
+==================================
+IP: 167.114.102.230
+Method: COOKIE
+Value: s=1482408513174&r=http://server5.kproxy.com/servlet/redirect.srv/sruj/sgywnbf/scljhz/p2/Forum/ShowForum.aspx?ForumID=35
+Script: 
+Time: Thursday 22nd 2016f December 2016 06:10:38 AM
+==================================
+IP: 64.62.175.32
+Method: POST
+Value: ME WANT
+;c
+Script: 
+Time: Friday 23rd 2016f December 2016 01:16:56 AM
+==================================
+IP: 77.12.148.5
+Method: POST
+Value: "ruff" *facepalm*
+Script: 
+Time: Friday 23rd 2016f December 2016 09:38:35 AM
+==================================

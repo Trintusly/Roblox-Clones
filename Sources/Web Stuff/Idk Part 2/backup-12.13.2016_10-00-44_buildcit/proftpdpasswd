@@ -1,0 +1,3 @@
+buildcit:$6$ehDZoyzcp.2DFMm4$TYGdj0IA47LW/jAO/6Yi477NLnUQBN46dLt0jwb8/vrRMQzVOvtakgg.UB06XpOQ4fBpNy9q2dUT4uhFgKnBH/:527:525::/home/buildcit:/bin/ftpsh
+ftp::14:50::/home/buildcit/public_ftp:/bin/ftpsh
+buildcit_logs:$6$ehDZoyzcp.2DFMm4$TYGdj0IA47LW/jAO/6Yi477NLnUQBN46dLt0jwb8/vrRMQzVOvtakgg.UB06XpOQ4fBpNy9q2dUT4uhFgKnBH/:527:525:buildcit:/usr/local/apache/domlogs/buildcit:/bin/ftpsh

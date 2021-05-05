@@ -1,0 +1,66 @@
+@font-face {
+	src: url(/fonts/Ubahn.ttf);
+	font-family: ubahn;
+}
+html,body {
+	background-color: #E1E1E1;
+	margin: 0;
+	padding: 0px;
+	font-family: ubahn;
+	font-weight: 500;
+	width: 100%;
+}
+
+/* Header */
+
+nav {
+	background: linear-gradient(to right, #7660E4, #8e78ff) ;
+	font-family: ubahn;
+	overflow:auto;
+	margin-bottom: 10px;
+	box-shadow: 0 -3px 6px 3px rgba(1,1,1,0.7);
+}
+nav ul {
+	margin:0px;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	list-style-type: none;
+}
+nav ul li a:not(.logo) {
+	transition: 0.1s;
+	border-bottom: 2px solid transparent;
+}
+nav ul li a:not(.logo):hover {
+	border-bottom: 2px solid #fff;
+}
+nav ul li a {
+	text-transform: uppercase;
+	color: #fff;
+	text-decoration: none;
+}
+nav ul li {
+	padding: 5px;
+	display: inline-block;
+	font-size: 1.3rem;
+	margin-left: 10px;
+}
+nav ul li.logo img {
+	height: 100%;
+}
+nav ul li.logo {
+	vertical-align: middle;
+	height: 50px;
+}
+
+/* Classes */
+
+.card {
+	overflow: auto;
+	background-color: #fff;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+
+.card:not(.b), .card.b .body, .card.b .top {
+	padding: 5px;
+}

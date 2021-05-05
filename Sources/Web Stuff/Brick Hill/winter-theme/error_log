@@ -1,0 +1,4 @@
+[25-Dec-2016 16:15:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function directory() in /home/bricflrb/alpha_subdomain/winter-theme/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/winter-theme/index.php on line 2

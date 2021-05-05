@@ -1,0 +1,13 @@
+=" 2 0 0 7 20 1 9474062 1 1
+   X Z Y W L  H COLOR   A S
+   
+   
+   X = X Axis
+   Y = Y Axis
+   Z = Z Axis
+   W = Width
+   L = Length
+   H = Height
+   COLOR = Hex color converted into decimal form
+   A = alpha
+   S = shape

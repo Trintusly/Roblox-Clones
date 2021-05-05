@@ -1,0 +1,31 @@
+#banner {
+    height: 100px;
+    padding-top: 0px;
+    margin-top: 66px;
+    background-image: url(http://www.brick-hill.com/assets/BHSummerHead.png);
+}
+#navbar, #info, #welcome {
+	background-color: #c2a15a;
+	background-image: url(http://www.brick-hill.com/assets/transparentPixel.png)!important;
+}
+th {
+    background-color: #c2a15a;
+}
+#footer {
+background: #826c3d;
+}
+body {
+    background-image: url(http://www.brick-hill.com/assets/sandBkg.png);	
+    background-size: 25%;
+    background-repeat: repeat;
+}
+input[type="button" i], input[type="submit" i], input[type="reset" i], input[type="file" i]::-webkit-file-upload-button, button, select {
+    background-color: #c2a15a;
+}
+#refreshAvatar {
+    color: #c2a15a!important;
+}
+#welcome:hover {
+	background-color: #927943;
+	background-image: url(http://www.brick-hill.com/assets/transparentPixel.png)!important;
+}

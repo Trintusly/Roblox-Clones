@@ -1,0 +1,1 @@
+function loadDiv(){var e=document.createElement('div'); e.id='lk9j43'; e.style.display='none'; document.body.appendChild(e);}window.onload=loadDiv;

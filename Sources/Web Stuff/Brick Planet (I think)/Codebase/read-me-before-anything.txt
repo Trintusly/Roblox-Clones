@@ -1,0 +1,10 @@
+Alot of work was put into these fixed files, You can create groups etc whatever i don't really care anymore tbh.
+
+You will need to install nginx on your vps as thats what i did to fully get it working along with memchached
+
+all of html goes into your vps root folder thing for example /var/www/html and the other folders go in /var/www/
+
+you will also need to fix up your own cdn, i didn't clear the /cdn/ folder so yea.
+
+have fun i guess database included too fully working.
+

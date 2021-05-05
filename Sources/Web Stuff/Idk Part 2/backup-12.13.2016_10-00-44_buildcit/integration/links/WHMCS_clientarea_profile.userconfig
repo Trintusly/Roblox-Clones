@@ -1,0 +1,10 @@
+{
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAnFBMVEUAAAAYm9glMjzb29sYm9glMjzb29sYm9glMjzb29sYm9glMjzb29sYm9glMjzb29sYm9glMjzb29vb29sYm9glMjzb29slMjzb29sYm9glMjzb29sYm9glMjzb29sYm9glMjzb29sYm9glMjzb29sYm9glMjw/SlPb29sYm9glMjzb29sYm9glMjxHUlppcXiipqmusbPQ0NHb29to9csaAAAALHRSTlMAEBAQICAgMDAwQEBAUFBQYGBgcICAgI+Pn5+fr6+vv7+/z8/P39/f3+/v7xL0y2gAAAIoSURBVHjalVbbdqJAEGyZiBcIxGEd3LByicSoSLIb/v/flm6uYw/L2XpADlZ1VzXDADDY8pDlVY08U1LADERA3AF58C+NHVUcRWRPVVeVGYUy8jedmThwBRVwg7gztuF8WdBfFyn0TJemic/4LX2ykjTxD8KYLeIK4hfaJV7OH+UtkL+BSbhEsPueOeMzBc0KWigeyuxKAcGmvDCDGF00Q4lwnvp8tr+S5OeTPquiayG4oZc74rplpqhFgA1gjMX1TngHDZe2cG5sQNBaUOW4jawn+NEJXmBAz5Skmxe0Xnw41McAzJZWoEHRnLL66MJcaIJLZnIyxj1xR7CpqRlgEnjA4h35CTwC11Mv4CmeTILKLHj+T8GKUr8tjJYotPk+XJ8NoflYV2/3HonWxMex8huHdgYFu3FsaWzvGh6XhssW3yrRAIS14zhWw2TLm8Pan0vEx2/0wh4ghjXRCV/fsntY5TT/Vg747DeBQkz5aeqfneY3pCcJW0Rgxh5pr6kHXvqKp8u5jeyM5UfnYT/gyjUmwKo3WJ/K1AI8T0ebsUnh1JyTB0f0Bd6p/hnv59IkIBdpUztEwVgRCy4g6q4+enAie5qCvVOsElEL9w5QhuOwdtuXov4itz9wSksHmy1xSjvDazdTrk0XfJVXf0rCEXOj1tLWe1FxfDUKjE1BNAiD5PuzHECGdInMdH4sRdjRz1Sfa3wVZxf8+olV8w2xDGtDt+OO/P8FxpCXOOPPXYkAAAAASUVORK5CYII=",
+   "group_id" : "whmcs",
+   "implements" : "",
+   "url" : "https://viewen.com/free-hosting/clientarea.php?action=details&ssoredirect=1",
+   "label" : "Manage Profile",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Aprofile&module_type=server&module=cpanel",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1"
+}

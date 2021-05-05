@@ -1,0 +1,32 @@
+[13-Aug-2016 03:23:07 America/Chicago] PHP Warning:  move_uploaded_file(../cdn/57760a7767bb221239dead78dd5ff276c035242f): failed to open stream: No such file or directory in /home/minebuil/public_html/Store/Shirt.php on line 89
+[13-Aug-2016 03:23:07 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php767mFD' to '../cdn/57760a7767bb221239dead78dd5ff276c035242f' in /home/minebuil/public_html/Store/Shirt.php on line 89
+[01-Sep-2016 12:04:30 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 12:04:30 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 12:05:31 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 12:05:31 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:05:42 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:05:42 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:05:46 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:05:46 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:06:01 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:06:01 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:06:53 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:06:53 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:07:11 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:07:11 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:07:12 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:07:12 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:07:14 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:07:14 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:07:15 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:07:15 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:27:13 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:27:13 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:27:13 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:27:13 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[01-Sep-2016 19:39:35 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[01-Sep-2016 19:39:35 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[11-Sep-2016 14:30:44 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[11-Sep-2016 14:30:44 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6
+[11-Sep-2016 14:31:12 America/Chicago] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Store/UserItem.php on line 5
+[11-Sep-2016 14:31:12 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/minebuil/public_html/Store/UserItem.php on line 6

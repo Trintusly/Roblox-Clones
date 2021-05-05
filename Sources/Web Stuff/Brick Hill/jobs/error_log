@@ -1,0 +1,2 @@
+[17-Apr-2017 14:31:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bricflrb'@'localhost' (using password: YES) in /home/bricflrb/public_html/SiT_3/config.php on line 2
+[17-Apr-2017 14:31:32 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'bricflrb'@'localhost' (using password: YES) in /home/bricflrb/public_html/SiT_3/config.php on line 2

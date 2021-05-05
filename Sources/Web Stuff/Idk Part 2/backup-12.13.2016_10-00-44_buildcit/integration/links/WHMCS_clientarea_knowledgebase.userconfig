@@ -1,0 +1,10 @@
+{
+   "order" : "1",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Aknowledgebase&module_type=server&module=cpanel",
+   "label" : "Search our Knowledgebase",
+   "url" : "https://viewen.com/free-hosting/knowledgebase.php?ssoredirect=1",
+   "implements" : "",
+   "group_id" : "whmcs",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAjVBMVEUAAADxxA43R1HxxA4lMjytkx3xxA43R1ElMjzxxA43R1HxxA7xxA4wP0nxxA7xxA7xxA4lMjzxxA7xxA4lMjzxxA7xxA4lMjzxxA4lMjwoNkA2RlA3R1GljR/xxA7yyB3zyyz0zzv100r11ln22mj33nf44of55Zb66aX77bT88MP89NL9+OH++/D////GKclBAAAAGXRSTlMAECAgMDAwQFBQYGBwgICPn6+vv8/P3+/v86GWGAAAAWhJREFUeNqtlNF6gjAMRgto1YGIINhuLtQKqNvk/R9vyA1tadp93zzX/2mSpkBeB03yAgCKPKXETxBXMFHFvnzMQKfaOI8vYM7O0TwDG0Xgyc8Nez5C8mhXJeDYJk/BQWVpCJzM95EBAlIiUCdu7tdGGAY1NwwT5/7JtdaE1BBytUA/8n1WhdwQQKG+PUbjUePL24BO3TydGyjowg5Mzk9DoEIFM66DIDGBgl3osBkSUBCXrpVyHEJit1TqJw/MrinBOhL9RIttOputeaTD3lI0pbtOtF/3i5Rd1wpQiK0FxDDoTw0WWGAtIPsB6f0cCr1/4fsLJNqVPhpfQ5SBD0b/kV/682Wk5BfHT/CQEi3PudNgWWTmXUYeB0RjzzlqVLsNmcE5YpQJJTYOdiOjBGHNLcYwJs723TSKiLgIP3SDJcTN6qQZjBKvoBr+PAlPinFcEj9vk3FckL8QrlbhFsnjrA98vyCv5xf2Y5WHw4uPPgAAAABJRU5ErkJggg=="
+}

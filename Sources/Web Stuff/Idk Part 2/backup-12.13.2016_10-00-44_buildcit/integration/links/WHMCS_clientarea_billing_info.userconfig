@@ -1,0 +1,10 @@
+{
+   "url" : "https://viewen.com/free-hosting/clientarea.php?action=creditcard&ssoredirect=1",
+   "implements" : "",
+   "group_id" : "whmcs",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAq1BMVEUAAAAnrmCRVaonrmAnrmAnrmA8nG8nrmAnrmAnrmAnrmCRVaolMjwnrmBQQGhmR36RVaonrmAnrmCRVaonrmCRVaonrmAnrmB1bZYlMjwnrmAuqGU0o2k1s2pOP2VQvX5cgoVdwohpSIFwRIRyRYZ2R4t4zJx8SpJ9ZpyDTpmEYKGFT5yG0aaHUJ6KW6WLUqONU6WPVKiRVaqT17Ch3Lmu4cPJ69fX8OH///+LoxvkAAAAGXRSTlMAEBAgQFBQYHCAj4+fn5+fn6+/v8/P3+/v8CJ0UAAAAUhJREFUeAGV0OtSwjAQxfGlXKoUudBWYS2Cooh3iaB5/ydzJ053MkMPJufz7z+zCcEluTEZhS8pjWwc52WjSH83H0T6OS6AxwXyuABeNoz0N2Yc6Q0ooAcF9KDAfvcECuQf1o9ahPm1FoFei3CvRaCX3X9qEeY/jFsW52XYy96OvYHe7eXI59hr4fsywV6LKC9FnJftfC/LsfennmI9xXrK4rxsHOCfZ71OS4vRP/59VTHLJp26GJz0W8fdLrwC+2tm3VQLfE/F/s61AN6s1C72+wVzuy6GpnmV+h9rX5nPvN9t2tb39lZfAYuZ2C97+PMbltHJouwJ+bb2oJ4JF+KTjpCNYPWXhAvx1GZXqOcJ4UI8UeEK9ZwSLJyn1LHlklkvAoXzsgn76xIo1FOr8HxKBAr1UvRrftWlxmXG5Al5a/cL0dO0RbJf5tfi7Ihl2PMAAAAASUVORK5CYII=",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Abilling_info&module_type=server&module=cpanel",
+   "label" : "Manage Billing Information"
+}

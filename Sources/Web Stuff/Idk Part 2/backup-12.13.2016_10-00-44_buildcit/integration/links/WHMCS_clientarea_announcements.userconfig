@@ -1,0 +1,10 @@
+{
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Aannouncements&module_type=server&module=cpanel",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1",
+   "label" : "News & Announcements",
+   "implements" : "",
+   "url" : "https://viewen.com/free-hosting/announcements.php?ssoredirect=1",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAz1BMVEUAAAAlMjw3R1E/UbXOzs7t7e0lMjw3R1E/UbXOzs7t7e0lMjw3R1E/UbXOzs4lMjw3R1Ht7e0lMjzt7e0lMjw/UbXOzs7t7e0lMjzOzs7t7e0lMjzOzs7l5eXt7e0lMjwlMjyFj8usr7Ht7e0lMjw/UbXOzs7t7e0lMjw3R1E/UbXOzs7l5eUlMjw3R1E/UbWCjcvOzs7t7e0lMjw3R1E/UbXt7e0lMjw3R1Gsr7HOzs7t7e0lMjw3R1E/UbV6gIWWn9Gkp6rOzs7l5eXt7e3yVtnBAAAAPHRSTlMAEBAQEBAgICAgIDAwMDBAQEBQUGBgYGBwcHCAgICAj5+fn5+vr6+vv7+/v7/Pz8/Pz8/f39/f7+/v7++T1js6AAABJUlEQVR4Ac3UXVOCQBTG8YcSK7AMtUKzsoCgyF4kJQupbL//Z8qd2EllzXMumvpfn9/Oc7X4P20H18EmyFnn+awAxMzTl7dcRj4XggGORkLQgdmR52RgyTF00AyFjAbMpqce14FKuzvfSTgQKi2oPEwX+hDiZ3A4ZYIuDxj+Kw/0Mx6wMwa43QDqHDC54oJJjQv2fxs8ggeeagBSBtjCLDuhA3x1wQVtLth5ZgLsXcbj96JxHN+M1gCZmxVFkDmdwRpQXQAySxk9QL8AKb5zvDIobzIwl+WtBLYCjeWveAVAUoAelrI8PTgrQGqgREIFtJtaKOfcy/s7aDclBjQdDPPhLrSbsmPQsjOVTRSpAj4R9BRIiaChgAvWJr8Oaq0o8t0q/rhP5iAmML/5edQAAAAASUVORK5CYII=",
+   "group_id" : "whmcs"
+}

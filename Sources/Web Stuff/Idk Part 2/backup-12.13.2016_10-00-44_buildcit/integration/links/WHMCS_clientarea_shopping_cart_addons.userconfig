@@ -1,0 +1,10 @@
+{
+   "label" : "View/Order Addons",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Ashopping_cart_addons&module_type=server&module=cpanel",
+   "group_id" : "whmcs",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAw1BMVEUAAAANhr8Ym9glMjwYm9glMjwNhr8Ym9glMjwNhr8Ym9glMjwNhr8Ym9gYm9glMjwNhr8XYocYm9gNhr8Ym9gfR10lMjwNhr8Ym9giO0slMjwNhr8Ym9gbVHAlMjwYm9glMjwNhr8Qi8UYm9glMjwYm9glMjwNhr8Ym9glMjwYm9glMjwNhr8PgbcQi8USdqYTcZ4TkcwVbJYWZ44WhrsYm9gZXH4ZfKsbV3UcUm0eTGUfR10fZ4ohQlUiPUwkN0QlMjwzhEifAAAALHRSTlMAEBAQICAwMDBAQEBQUGBgcHBwgICAgI+Pj4+fn5+fr6+/v7+/z8/f39/v76ecmrsAAAGnSURBVHjanZPrQoJAEIUPZiFbkimpmUWEJKHdwy528f2fKgZXWZotWb8/zuyZM7s7K9DQGIwWGaNBA1VoULVktIuNHC5UJodG9cQGx75sfN7tXkyW8b8X2bnOa7rLZJAnV/iDPcdxTqji+8iRnOWO4yzaY+Wt8TTjiwoep2tmlH9RNG6Vuwe5/kj6vKiXHe7yMCh2sTpSfiX5XjU80cpMJh0LOQfjlfwpD1BwQ4b3VTY+oPZBIZP6Ni0xL/cILPQUVd1fPaWS9/Cg8JHx/FDihdbUBaSGmBsSs/oEoZkhNDd4ZgbP3NA0MzQh9MMQQj8+AZsvxmnqAz4FDBv85YZwm8gQLoZMhMbgYo2rM4Rs1FTp++5fWsgnhz799oE2N5BYIvJqqC/DOmrtqFBkE3is/2rUQqPyi/m2arB9PhChmVKUH45py01tzcVqw+w5aoDPDZqH6GNNnz2DztAuDG2tIWL/jTRxATfJgl9EIMKUEwOx9nsjqA8jinSrQxCewffGb8bh8xDVDWI7A6obsKUhrlofS8PlbUUupaE3rcipNFhBtfrAAvADzXlsJf/WC3oAAAAASUVORK5CYII=",
+   "url" : "https://viewen.com/free-hosting/cart.php?gid=addons&ssoredirect=1",
+   "implements" : ""
+}

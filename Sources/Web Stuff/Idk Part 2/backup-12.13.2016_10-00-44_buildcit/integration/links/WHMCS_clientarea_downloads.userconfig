@@ -1,0 +1,10 @@
+{
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Adownloads&module_type=server&module=cpanel",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1",
+   "label" : "Download Resources",
+   "implements" : "",
+   "url" : "https://viewen.com/free-hosting/downloads.php?ssoredirect=1",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAQlBMVEUAAADOzs7Ozs7Ozs7t7e3Ozs7Ozs7t7e3t7e0Ym9glMjwyPkdNsN1XYWhbtd99hImip6uq0+bF3unOzs7c3Nzt7e2Y2TCUAAAACXRSTlMAQFBgj6/f3+/npsWFAAAAmUlEQVR4Ae3SsQ7CMAyE4QCBQoJbt8bv/6owoJMpIrpMINGb/2+w5PSy/cn883Ja72BmTgn0bTC8923gq54E6FmAngfoeYCeBOhJsLNOcOwFsb8xwOl9E0gpsoEWmESkPCYiEwVqwSoFtGDKgCCUPVrRMwBCnQAQtervvPdyDVsIMF7CRgLMEczdN/w12MDA9ucnyCzICYLv78X3mW+KzHVUAAAAAElFTkSuQmCC",
+   "group_id" : "whmcs"
+}

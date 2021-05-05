@@ -1,0 +1,72 @@
+[15-Mar-2017 04:12:26 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 3
+[15-Mar-2017 04:12:26 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[15-Mar-2017 04:12:26 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/alpha_subdomain/SiT_3/PHP/helper.php on line 5
+[15-Mar-2017 04:12:26 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 7
+[15-Mar-2017 04:12:26 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 14
+[15-Mar-2017 04:12:26 America/New_York] PHP Notice:  Undefined property: stdClass::$hat1 in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 134
+[15-Mar-2017 04:12:26 America/New_York] PHP Notice:  Undefined property: stdClass::$hat1 in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 141
+[15-Mar-2017 04:12:26 America/New_York] PHP Notice:  Undefined property: stdClass::$zoom in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 147
+[15-Mar-2017 04:12:26 America/New_York] PHP Notice:  Undefined property: stdClass::$zoom in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 150
+[15-Mar-2017 04:13:05 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 7
+[15-Mar-2017 04:13:05 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 14
+[15-Mar-2017 04:13:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function shopItemHash() in /home/bricflrb/alpha_subdomain/avatar/shop.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 134
+[15-Mar-2017 04:13:29 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 7
+[15-Mar-2017 04:13:29 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 14
+[15-Mar-2017 04:13:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function shopItemHash() in /home/bricflrb/alpha_subdomain/avatar/shop.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 134
+[15-Mar-2017 04:13:40 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 7
+[15-Mar-2017 04:13:40 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 14
+[15-Mar-2017 04:13:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function shopItemHash() in /home/bricflrb/alpha_subdomain/avatar/shop.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 134
+[15-Mar-2017 04:13:56 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 7
+[15-Mar-2017 04:13:56 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 14
+[15-Mar-2017 04:13:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function shopItemHash() in /home/bricflrb/alpha_subdomain/avatar/shop.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 134
+[18-Mar-2017 07:18:11 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/alpha_subdomain/SiT_3/config.php on line 11
+[18-Mar-2017 07:18:11 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 7
+[18-Mar-2017 07:18:11 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 14
+[18-Mar-2017 07:18:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function shopItemHash() in /home/bricflrb/alpha_subdomain/avatar/shop.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/avatar/shop.php on line 134
+[19-Mar-2017 11:29:29 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/config.php on line 11
+[19-Mar-2017 11:29:29 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/beta_subdomain/avatar/shop.php on line 7
+[19-Mar-2017 11:29:29 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/beta_subdomain/avatar/shop.php on line 14
+[19-Mar-2017 11:29:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function shopItemHash() in /home/bricflrb/beta_subdomain/avatar/shop.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/avatar/shop.php on line 134
+[25-Mar-2017 15:42:21 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/beta_subdomain/avatar/shop.php on line 7
+[25-Mar-2017 15:42:21 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/beta_subdomain/avatar/shop.php on line 14
+[25-Mar-2017 15:42:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function shopItemHash() in /home/bricflrb/beta_subdomain/avatar/shop.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/avatar/shop.php on line 134
+[25-Mar-2017 15:44:06 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/beta_subdomain/avatar/shop.php on line 7
+[25-Mar-2017 15:44:06 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/beta_subdomain/avatar/shop.php on line 14
+[25-Mar-2017 15:44:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function shopItemHash() in /home/bricflrb/beta_subdomain/avatar/shop.php:134
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/beta_subdomain/avatar/shop.php on line 134
+[25-Mar-2017 15:49:13 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[25-Mar-2017 15:49:13 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[25-Mar-2017 15:49:13 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 5
+[25-Mar-2017 15:49:13 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/beta_subdomain/avatar/shop.php on line 7
+[25-Mar-2017 15:49:13 America/New_York] PHP Notice:  Undefined property: stdClass::$hat4 in /home/bricflrb/beta_subdomain/avatar/shop.php on line 14
+[25-Mar-2017 15:49:13 America/New_York] PHP Notice:  Undefined property: stdClass::$hat1 in /home/bricflrb/beta_subdomain/avatar/shop.php on line 134
+[25-Mar-2017 15:49:13 America/New_York] PHP Notice:  Undefined property: stdClass::$hat1 in /home/bricflrb/beta_subdomain/avatar/shop.php on line 141
+[25-Mar-2017 15:49:13 America/New_York] PHP Notice:  Undefined property: stdClass::$zoom in /home/bricflrb/beta_subdomain/avatar/shop.php on line 147
+[25-Mar-2017 15:49:13 America/New_York] PHP Notice:  Undefined property: stdClass::$zoom in /home/bricflrb/beta_subdomain/avatar/shop.php on line 150
+[11-Apr-2017 21:49:39 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[11-Apr-2017 21:49:39 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/beta_subdomain/SiT_3/PHP/helper.php on line 3
+[11-Apr-2017 21:49:39 America/New_York] PHP Notice:  Undefined index: id in /home/bricflrb/beta_subdomain/avatar/python.php on line 7
+[11-Apr-2017 22:06:21 America/New_York] PHP Warning:  ini_set() expects exactly 2 parameters, 1 given in /home/bricflrb/beta_subdomain/avatar/fileSize.php on line 17

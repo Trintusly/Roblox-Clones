@@ -1,0 +1,83 @@
+; cPanel first:11.60.0.26 (update_time):1481451994 11.60.0.26: Cpanel::ZoneFile::VERSION:1.3 hostname:chicago.viewen.com latest:11.60.0.26
+; Zone file for buildcity.ml
+$TTL 14400
+@      86400	IN      SOA     chicago.viewen.com. salmistainc.gmail.com. (
+		2016121111	; serial, todays date+todays
+		3600		; refresh, seconds
+		7200		; retry, seconds
+		1209600		; expire, seconds
+		86400 )		; minimum, seconds
+
+buildcity.ml. 86400 IN NS chicago.viewen.com.
+buildcity.ml. 86400 IN NS chicago1.viewen.com.
+
+
+buildcity.ml. IN A 162.144.152.200
+
+buildcity.ml. IN MX 0 buildcity.ml.
+
+mail IN CNAME buildcity.ml.
+www IN CNAME buildcity.ml.
+ftp IN A 162.144.152.200
+
+buildcity.ml. IN TXT "v=spf1 +a +mx +ip4:162.144.152.200 ~all"
+cpanel IN A 162.144.152.200
+webdisk IN A 162.144.152.200
+cpcalendars IN A 162.144.152.200
+cpcontacts IN A 162.144.152.200
+whm IN A 162.144.152.200
+webmail IN A 162.144.152.200
+autoconfig IN A 162.144.152.200
+autodiscover IN A 162.144.152.200
+_autodiscover._tcp IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_caldav._tcp IN SRV 0 0 2079 chicago.viewen.com.
+_caldavs._tcp IN SRV 0 0 2080 chicago.viewen.com.
+_carddav._tcp IN SRV 0 0 2079 chicago.viewen.com.
+_carddavs._tcp IN SRV 0 0 2080 chicago.viewen.com.
+_caldav._tcp IN TXT path=/
+_caldavs._tcp IN TXT path=/
+_carddav._tcp IN TXT path=/
+_carddavs._tcp IN TXT path=/
+default._domainkey IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5NtScfMKb+gALqzM0PBaxnOVlpSy2wB+XiOlvbLgMrEGFxjOgELhCUXfEnkJbrRGiiZEGI9n9wZ9XR4Ge25HwW9WM/t1RUwPL9ZS5XGKPh9ztZSex3tTGDBPql+nyb0kYjvxA8eyqJvvRO+EIxm+8UkS/vI2rZCOFr9EDCThFzQjZMacLXv7L/kQxjwbGGvU3" X9BkDpNfzHPvrkAUfo0gWAxxYOdt1eCvpVXaplySexMLm+PDHEBZXqom+myZxYmIQDJghfhXV6MdH/FRAJI7RFcT8a2mpV5AoS+SI9/busXkNuD84JpKQJOQaPL2YtCieCBb6tuvTig0znIj6kU+wIDAQAB\;
+maintenance 14400 IN A  162.144.152.200
+www.maintenance 14400 IN A  162.144.152.200
+webmail.maintenance IN A 162.144.152.200
+cpcalendars.maintenance IN A 162.144.152.200
+cpcontacts.maintenance IN A 162.144.152.200
+cpanel.maintenance IN A 162.144.152.200
+autoconfig.maintenance IN A 162.144.152.200
+webdisk.maintenance IN A 162.144.152.200
+whm.maintenance IN A 162.144.152.200
+autodiscover.maintenance IN A 162.144.152.200
+_autodiscover._tcp.maintenance IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_caldav._tcp.maintenance IN SRV 0 0 2079 chicago.viewen.com.
+_caldavs._tcp.maintenance IN SRV 0 0 2080 chicago.viewen.com.
+_carddav._tcp.maintenance IN SRV 0 0 2079 chicago.viewen.com.
+_carddavs._tcp.maintenance IN SRV 0 0 2080 chicago.viewen.com.
+_caldav._tcp.maintenance IN TXT path=/
+_caldavs._tcp.maintenance IN TXT path=/
+_carddav._tcp.maintenance IN TXT path=/
+_carddavs._tcp.maintenance IN TXT path=/
+default._domainkey.maintenance IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw1QhliTswDfCPzKc4k5d0MRRUeaRHPIOByBL67648ZD3BWBCvwSu0XgcjkOGZeV5ZZJicI540dvv0svk11nlBTeOePA61HFjo11DA8mLBjFsZJFtOqduIezAgwQtWBXOFr91qH2nIphWjE4GjixqKSl1Q/iNIXulds/4OR0VJE0Iba31y39CJQE/9nhXzqZUl" Jf77L0InAmMxFKD/8icSoerlh/V+VQXMtLHv8c8PNxhAfAFAo1t9W/JqDh9BS18MNJGBFr6/44wTy/sShZHTqtGuNvPaRe+ktJGlV0FlAFB92eL+bznix/9RlQZZ4slTSERpIOX7Y+pH8xc5Zz8YQIDAQAB\;
+maintenance IN TXT "v=spf1 +a +mx +ip4:162.144.152.200 ~all"
+avatars 14400 IN A  162.144.152.200
+www.avatars 14400 IN A  162.144.152.200
+autodiscover.avatars IN A 162.144.152.200
+_autodiscover._tcp.avatars IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+_caldav._tcp.avatars IN SRV 0 0 2079 chicago.viewen.com.
+_caldavs._tcp.avatars IN SRV 0 0 2080 chicago.viewen.com.
+_carddav._tcp.avatars IN SRV 0 0 2079 chicago.viewen.com.
+_carddavs._tcp.avatars IN SRV 0 0 2080 chicago.viewen.com.
+_caldav._tcp.avatars IN TXT path=/
+_caldavs._tcp.avatars IN TXT path=/
+_carddav._tcp.avatars IN TXT path=/
+_carddavs._tcp.avatars IN TXT path=/
+autoconfig.avatars IN A 162.144.152.200
+cpanel.avatars IN A 162.144.152.200
+cpcalendars.avatars IN A 162.144.152.200
+cpcontacts.avatars IN A 162.144.152.200
+webmail.avatars IN A 162.144.152.200
+whm.avatars IN A 162.144.152.200
+webdisk.avatars IN A 162.144.152.200
+default._domainkey.avatars IN TXT "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoA/Pfy6T3xNRF11u0OebeqQY7IPSEWWI9qb+hWHLGGACN6hZo4mg5CNhfb2azOX5HfBKrBRkzDx+eP/uI8qXl0Hyvnkhx4wA6caC4zFSt81HMtNzFRgUx7WUcf9xPGF6p/9zCjWGSigdWIuh0z6xsjc3Vt0To66axN97Hvk5qITC/uyQpWJ/9KfsPiGp0sMOo" eRYiRfUwxgiVhEIvPqDf8MdzY7gdk0wX7FLg3CQACBPg+s22UrFEYYWy/4pyYrckfvaJTo2FQt2qBgzkiTqk2Lv7/ZTq+weqLWXCWveDv5nyKx5Iy+vhLg8arqamBOgMWO4zEbaJligpDAahq2raQIDAQAB\;
+avatars IN TXT "v=spf1 +a +mx +ip4:162.144.152.200 ~all"

@@ -1,0 +1,367 @@
+
+
+
+
+/*
+     FILE ARCHIVED ON 14:55:59 Mär 26, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:48:49 Apr 16, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+@import "https://fonts.googleapis.com/css?family=Hind:100,200,300,400,500,600,700";
+@import "https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700";
+
+* {
+margin: 0;
+}
+
+html, body {
+height: 100%;
+}
+
+body {
+background: #fbfbfb !important;
+font-family: Hind, sans-serif !important;
+font-size: 16px;
+}
+
+.page-wrap {
+min-height: 100%;
+margin-bottom: -165px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}
+
+::selection {
+background: #4098E6;
+color: white;
+}
+
+::-moz-selection {
+background: #4098E6;
+color: white;
+}
+
+textarea {
+resize: none;
+}
+
+.navbar {
+border-radius: 0 !important;
+}
+
+.navbar-default .navbar-nav > li > a {
+color: #D7E8F7 !important;
+font-weight: 400;
+}
+
+.navbar-brand {
+color: white !important;
+}
+
+.navbar-toggle:hover, .navbar-toggle:focus {
+background: #f5f5f5 !important;
+}
+
+.navbar-default .navbar-toggle {
+border-color: #ccc !important;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+background-color: #555 !important;
+}
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+background-color: #4098E6 !important;
+}
+
+.header-blue {
+border: 0 !important;
+background: #4098E6 !important;
+}
+
+.navbar-brand {
+font-size: 18px;
+}
+
+.icon {
+background-image:url("https://www.bloxcity.com/assets/images/gamepad-white.png");
+background-size: 20px 20px;
+height: 20px;
+width: 20px;
+display: inline-block;
+vertical-align: middle;
+}
+
+.maintenance {
+text-align: center;
+background: black;
+color: white;
+padding: 10px 0;
+}
+
+.forum-category {
+background: #4098E6;
+padding: 10px 25px;
+color: white;
+margin-top: 50px;
+font-size: 16px;
+}
+
+.forum-topic-a, .forum-topic-a:hover {
+color: #333 !important;
+text-decoration: none;
+}
+
+.forum-topic {
+background: #fff;
+border-bottom: 1px solid #ddd;
+padding: 25px 25px;
+}
+
+.forum-topic-gray {
+background: #fcfcfc;
+border-bottom: 1px solid #ddd;
+padding: 25px 25px;
+}
+
+.topic-name {
+font-size: 18px;
+}
+
+.topic-description {
+font-size: 12px;
+color: #888;
+}
+
+.h1-light {
+font-weight: 300;
+font-size: 50px;
+}
+
+.h1-light-home {
+font-weight: 100;
+color: #4098E6;
+font-size: 75px;
+line-height: 85px;
+font-family: Roboto, sans-serif;
+}
+
+h3 {
+margin: 0;
+padding: 0;
+padding-bottom: 25px;
+}
+
+.h3-light {
+font-weight: 300;
+font-size: 25px;
+}
+
+.h3-light-home {
+font-weight: 200;
+font-size: 20px;
+color: #888;
+margin: 15px 0;
+line-height: 35px;
+}
+
+.pill-catalog, .pill-catalog li a:focus {
+background: #80848C;
+}
+
+.pill-catalog a {
+color: #C5CAD4 !important;
+border-radius: 0 !important;
+}
+
+.nav-stacked > li + li {
+margin-top: 0 !important;
+}
+
+li.active a {
+background: #74767A !important;
+}
+
+.pill-catalog a:hover {
+background: #898C91 !important;
+}
+
+.item-padding {
+padding: 10px 0 !important;
+}
+
+.edit-character-view-item {
+padding: 10px 0;
+}
+
+.wearItemCharacterPG {
+background: none;
+}
+
+input, textarea {
+outline: none !important;
+}
+
+.container-box {
+background: #fff;
+padding: 25px;
+color: #333;
+box-shadow: 0 3px 4px #eee;
+}
+
+.container-head {
+color:#666;
+font-size:12px;
+font-weight:bold;
+font-weight:500;
+}
+
+.vertical-align {
+display: flex;
+align-items: center;
+}
+
+.cash {
+color: #15BF6B;
+font-weight: 600;
+display: inline-block;
+}
+
+.cash-icon {
+background-image:url(https://www.bloxcity.com/assets/images/icons/icon-cash.png);
+background-size: 16px 16px;
+width: 16px;
+height: 16px;
+padding: 5px;
+}
+
+.coins {
+color: #F7D358;
+font-weight: 600;
+display: inline-block;
+}
+
+.search-bar {
+width:100%;
+border:0;
+padding:15px 15px;
+box-shadow: 0 2px 3px #eee;
+color:#333;
+font-size:16px;
+font-weight: 400;
+background:#fff;
+}
+
+.blue-submit {
+background: #4098E6;
+color: white;
+padding: 0;
+padding: 10px 15px;
+border:0;
+border-radius: 3px;
+}
+
+.blue-submit:hover {
+background: #3B8BD1;
+color: white;
+text-decoration: none;
+}
+
+.red-submit {
+background: #CC0033;
+padding: 0;
+color: white;
+padding: 10px 15px;
+border: 0;
+border-radius: 3px;
+}
+
+.red-submit:hover {
+background: #BD002F;
+color: white;
+text-decoration: none;
+}
+
+.green-submit {
+background: #00b200;
+padding: 0;
+color: white;
+padding: 10px 15px;
+border: 0;
+border-radius: 3px;
+}
+
+.green-submit:hover {
+background: #00A100;
+color: white;
+text-decoration: none;
+}
+
+.item-name-a {
+font-size: 12px;
+text-align: center;
+margin: 0 auto;
+}
+
+.reportAbuse {
+padding: 5px;
+height: 25px;
+width: 25px;
+background-image:url(https://www.bloxcity.com/assets/images/overlays/reporticon1.png);
+background-repeat: no-repeat;
+background-size: 25px 25px;
+text-align:center;
+}
+
+.reportAbuse:hover {
+background-image:url(https://www.bloxcity.com/assets/images/overlays/reporticon2.png);
+background-repeat: no-repeat;
+background-size: 25px 25px;
+cursor: pointer;
+}
+
+.forum-reply-a, .forum-reply-a:hover, .forum-reply-a:focus {
+color: white;
+text-decoration: none;
+}
+
+.error {
+background-color: #FA5353;
+border:1px solid red;
+color: #fff;
+width: 100%;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-bottom: 10px;
+}
+
+.errorMargin {
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.site-footer, .page-wrap:after {
+  height: 165px; 
+}
+.site-footer {
+background: #ffffff;
+}
+
+.site-footer a, .site-footer a:visited, .site-footer a:link, .site-footer a:active {
+color: #555;
+text-decoration: none;
+text-transform: uppercase;
+font-size:12px;
+font-weight: 600;
+padding: 0 5px;
+}
+
+.site-footer a:hover {
+color: #4098E6;
+text-decoration: none;
+}

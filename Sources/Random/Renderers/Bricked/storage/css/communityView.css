@@ -1,0 +1,69 @@
+		.communityLogo {
+			width: 128px;
+			height: 128px;
+			background-size: cover;
+			background-color: #1D1F24;
+			border-radius: 50%;
+		}
+
+		.communityName {
+			font-size: 24px;
+			text-shadow: 0 0 5px #0f1015;
+		}
+
+		.communityStats {
+			font-size: 12px;
+		}
+		
+		.community-search-store {
+			width: 350px;
+			font-size: 14px;
+		}
+		
+		@media screen and (max-width: 63.9375em) {
+			.communityName {
+				margin-top: 3px;
+				text-align: center;
+			}
+			
+			.communityStats {
+				margin-top: 3px;
+				text-align: center;
+			}
+			
+			.communityButtons {
+				margin-top: 15px;
+				text-align: center;
+			}
+			
+			.communityButtons button {
+				margin: 0 auto;
+			}
+			
+			.sm-stat-owner, .sm-stat-misc, .sm-stat-role {
+				text-align: center;
+				display: block;
+				line-height: 2;
+			}
+			
+			.community-tabs.is-member li, .community-tabs.is-not-member li {
+				display: block;
+				width: 100% !important;
+			}
+			
+			.community-search-store {
+				width: 100%;
+				margin-top: 9px;
+				font-size: 16px;
+			}
+			
+			.community-store-tabs {
+				margin: 0 auto;
+			}
+			
+			.sm-clothing-categories, .sm-clothing-categories ul, .sm-clothing-categories ul li {
+				padding: 10px 0;
+				margin: 0 auto;
+				text-align: center;
+			}
+		}

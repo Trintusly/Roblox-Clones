@@ -1,0 +1,14 @@
+<svg width="200px"  height="200px"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" class="lds-bricks" style="background: none;">
+    <rect ng-attr-fill="{{config.c1}}" ng-attr-x="{{config.x}}" ng-attr-y="{{config.x}}" ng-attr-width="{{config.w}}" ng-attr-height="{{config.w}}" ng-attr-rx="{{config.radius}}" ng-attr-ry="{{config.radius}}" fill="#e01414" x="17.5" y="17.5" width="25" height="25" rx="0" ry="0">
+      <animate attributeName="x" calcMode="linear" values="17.5;57.5;57.5;57.5;57.5;17.5;17.5;17.5;17.5" keyTimes="0;0.083;0.25;0.333;0.5;0.583;0.75;0.833;1" dur="2.8" begin="-2.5666666666666664s" repeatCount="indefinite"></animate>
+      <animate attributeName="y" calcMode="linear" values="17.5;57.5;57.5;57.5;57.5;17.5;17.5;17.5;17.5" keyTimes="0;0.083;0.25;0.333;0.5;0.583;0.75;0.833;1" dur="2.8" begin="-1.8666666666666665s" repeatCount="indefinite"></animate>
+    </rect>
+    <rect ng-attr-fill="{{config.c2}}" ng-attr-x="{{config.x}}" ng-attr-y="{{config.x}}" ng-attr-width="{{config.w}}" ng-attr-height="{{config.w}}" ng-attr-rx="{{config.radius}}" ng-attr-ry="{{config.radius}}" fill="#1873ab" x="17.5" y="57.5" width="25" height="25" rx="0" ry="0">
+      <animate attributeName="x" calcMode="linear" values="17.5;57.5;57.5;57.5;57.5;17.5;17.5;17.5;17.5" keyTimes="0;0.083;0.25;0.333;0.5;0.583;0.75;0.833;1" dur="2.8" begin="-1.6333333333333333s" repeatCount="indefinite"></animate>
+      <animate attributeName="y" calcMode="linear" values="17.5;57.5;57.5;57.5;57.5;17.5;17.5;17.5;17.5" keyTimes="0;0.083;0.25;0.333;0.5;0.583;0.75;0.833;1" dur="2.8" begin="-0.9333333333333332s" repeatCount="indefinite"></animate>
+    </rect>
+    <rect ng-attr-fill="{{config.c3}}" ng-attr-x="{{config.x}}" ng-attr-y="{{config.x}}" ng-attr-width="{{config.w}}" ng-attr-height="{{config.w}}" ng-attr-rx="{{config.radius}}" ng-attr-ry="{{config.radius}}" fill="#28c91c" x="57.5" y="31.8431" width="25" height="25" rx="0" ry="0">
+      <animate attributeName="x" calcMode="linear" values="17.5;57.5;57.5;57.5;57.5;17.5;17.5;17.5;17.5" keyTimes="0;0.083;0.25;0.333;0.5;0.583;0.75;0.833;1" dur="2.8" begin="-0.7s" repeatCount="indefinite"></animate>
+      <animate attributeName="y" calcMode="linear" values="17.5;57.5;57.5;57.5;57.5;17.5;17.5;17.5;17.5" keyTimes="0;0.083;0.25;0.333;0.5;0.583;0.75;0.833;1" dur="2.8" begin="0s" repeatCount="indefinite"></animate>
+    </rect>
+  </svg>

@@ -1,0 +1,19 @@
+[12-Aug-2016 08:18:13 CST6CDT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/minebuil/public_html/Images/Header.php on line 1
+[12-Aug-2016 08:18:13 CST6CDT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/minebuil/public_html/Images/Header.php on line 1
+[12-Aug-2016 08:18:13 CST6CDT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/minebuil/public_html/Images/Header.php on line 1
+[12-Aug-2016 08:18:13 CST6CDT] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/minebuil/public_html/Images/Header.php on line 38
+[12-Aug-2016 08:18:13 CST6CDT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/minebuil/public_html/Images/Header.php on line 38
+[12-Aug-2016 08:18:13 CST6CDT] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Images/Header.php on line 39
+[12-Aug-2016 08:18:13 CST6CDT] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/minebuil/public_html/Images/Header.php on line 98
+[12-Aug-2016 08:18:13 CST6CDT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/minebuil/public_html/Images/Header.php on line 98
+[12-Aug-2016 08:18:13 CST6CDT] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Images/Header.php on line 99
+[12-Aug-2016 08:18:29 CST6CDT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/minebuil/public_html/Images/Header.php on line 1
+[12-Aug-2016 08:18:29 CST6CDT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/minebuil/public_html/Images/Header.php on line 1
+[12-Aug-2016 08:18:29 CST6CDT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/minebuil/public_html/Images/Header.php on line 1
+[12-Aug-2016 08:18:29 CST6CDT] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/minebuil/public_html/Images/Header.php on line 38
+[12-Aug-2016 08:18:29 CST6CDT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/minebuil/public_html/Images/Header.php on line 38
+[12-Aug-2016 08:18:29 CST6CDT] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Images/Header.php on line 39
+[12-Aug-2016 08:18:29 CST6CDT] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/minebuil/public_html/Images/Header.php on line 98
+[12-Aug-2016 08:18:29 CST6CDT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/minebuil/public_html/Images/Header.php on line 98
+[12-Aug-2016 08:18:29 CST6CDT] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/minebuil/public_html/Images/Header.php on line 99
+[12-Aug-2016 08:18:29 CST6CDT] PHP Fatal error:  Call to undefined function SecurePost() in /home/minebuil/public_html/Images/Login.php on line 6

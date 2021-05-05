@@ -1,0 +1,10 @@
+{
+   "group_id" : "whmcs",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAY1BMVEUAAAAlMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4lMjzxxA4Q6TfkAAAAH3RSTlMAEBAgIDAwQEBQUGBgcHCAgI+Pn5+vr7+/z8/f3+/vdkdMmQAAAdxJREFUeAG9lu+SoyAQxBvEJcZjMWcUTVbh/Z/yBgPRzbI3tR/uflWpKYUOPYz8QQF1Cxs3CZa3E4BTSGwPb/ie0xTCb0CO08YogfcQphPKyDEQJDjSBeJa9HZeqemje2mTXXy9ngvu4/sOkZLkayaKzCoUURMJihP0Lb9e25QCi5SHfOOQDGoN56d2jTVioGqueYyR8gXLRPXYtQosKvuI0g48sehTqtgHWFKqKjriB9iHOEfhNX9bHHIcJf4D8iR/1nkKI3bawQ0N0DxC7Wzvek2/Opd4wqcq9z5SXbZgYX1mEblknwQ1tVg3VDEsJCTBMHvvnPe6KKAODQUdQ0ud6BmWoi4KWiuM9+YhaGE5AdmJXry7L9VCIfpmBWi3BKtH2EYBjVofBfu0NlYAlbWmomC2IGwDYVrAGCTB7WeFU+8K/4ZKay2Q4D/v9u4jc/tc0u/4C9XsM07wSxRi8Tuz4DcB548M7DbTpr82SaG5jWxOVnQS9NxWma3XSbAwm7F+pqqJuL6Y7X4TNIf14pkDZXOy1ICwhIsC5shakiInfT8KwtpJvND7hyILLtyxmzouQ4oVduS1cLDj4o+Yr1eH7nh1yKYyPX85IaxPLAZl8vVnSvlU23w6I0D8AUrZRbBfAxQ+AAAAAElFTkSuQmCC",
+   "url" : "https://viewen.com/free-hosting/cart.php?a=add&domain=transfer&ssoredirect=1",
+   "implements" : "",
+   "label" : "Transfer a Domain",
+   "order" : "1",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Ashopping_cart_domain_transfer&module_type=server&module=cpanel"
+}

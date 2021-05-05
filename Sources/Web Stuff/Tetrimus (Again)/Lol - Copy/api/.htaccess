@@ -1,0 +1,48 @@
+RewriteEngine on
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# NOTE this account's php is controlled via FPM and the vhost, this is a place holder.
+# Do not edit. This next line is to support the cPanel php wrapper (php_cli).
+# AddType application/x-httpd-ea-php71 .php .phtml
+# php -- END cPanel-generated handler, do not edit
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+deny from all
+
+allow from 66.160.212.203
+allow from 68.116.192.161
+
+deny from 174.114.157.207
+deny from 2607:fea8:0e1f:ecca:2964:5cab:dfc8:3f7f
+deny from 71.10.233.127
+
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://api.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://api.tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://storage.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://storage.tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.api.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.api.tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.storage.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.storage.tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://api.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://api.tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://storage.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://storage.tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.api.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.api.tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.storage.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.storage.tetrimus.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.tetrimus.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^https://www.tetrimus.com$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ https://tetrimus.com [R,NC]
+

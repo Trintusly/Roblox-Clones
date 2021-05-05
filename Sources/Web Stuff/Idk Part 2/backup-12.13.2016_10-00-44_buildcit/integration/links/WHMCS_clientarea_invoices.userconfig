@@ -1,0 +1,10 @@
+{
+   "url" : "https://viewen.com/free-hosting/clientarea.php?action=invoices&ssoredirect=1",
+   "implements" : "",
+   "group_id" : "whmcs",
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAArlBMVEUAAADt7e3Ozs7t7e3t7e23t7fOzs7t7e3Ozs7t7e3Ozs7t7e3t7e3Ozs7t7e3t7e3o6Ojt7e3Ozs7o6Ojt7e3Ozs7t7e23t7ft7e0lMjwyPkc+SVJXYWhkbHNweH59hImEtVaJkJWRvGmWm6Cew3yip6uvs7a3t7e50aK7vsG/1avDw8PG2LTIyszM3L7Ozs7T38fU1tfW1tbZ49Hc3Nze3t7g5trh4eLm6uTt7e1jZTdsAAAAGXRSTlMAECAgMEBAQFBQYGCAn5+vv7/Pz8/f3+/vfCvR5gAAASRJREFUeNrdll1TwjAQRVcFoaWAaG3TIggiohUMxQ+6//+PmQ8lTjqG7APD6HnJTnLPw33YmYChfbnBX0kCsAk536CDVj3vFi7OT+28W3jnvGvl9wo8NHk/4TltmryXsEh13l9YqDxNCDlNaHOicE0V+A/efAR0cHyhWtu8uoX7SY2lU7irC4VT+Hi0WZJL/zlhmu0YllgOsyxfOYU8M8y0PnUK85sdoy1uR+Ioj1z61lTIS1zJSk/epec421/6wZQei9JjeRymtNmniiKsJ4IXglC4F6hOVYgNqsil/6OQEoW0SRNCAJLQhW8hasWoiQKmh4G50tOV+jpooQNw0sOvqaGMnrhSORbIR3Wj6bC4oYcY40AOZ31MIgCZY9jXjxFL9ACfMOK0SEks1o8AAAAASUVORK5CYII=",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA==",
+   "order" : "1",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Ainvoices&module_type=server&module=cpanel",
+   "label" : "View Invoice History"
+}

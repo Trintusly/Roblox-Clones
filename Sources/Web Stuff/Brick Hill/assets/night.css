@@ -1,0 +1,63 @@
+body {
+    background: #11161b!important;
+    background-image: url(http://www.brick-hill.com/assets/transparentPixel.png)!important;
+}
+#navbar, #info, #welcome {
+	background-color: #1f2831!important;
+	background-image: url(http://www.brick-hill.com/assets/transparentPixel.png)!important;
+}
+#banner {
+    height: 100px!important;
+    padding-top: 65px!important;
+    margin-top: 0px!important;
+    background-image: url(http://www.brick-hill.com/assets/nightBanner.png)!important;
+}
+#box {
+    background-color: #d4d4d4;
+}
+textarea, input {
+    border-color: black;
+    border-width: 1px;
+}
+
+input[type="button" i], input[type="submit" i], input[type="reset" i], input[type="file" i]::-webkit-file-upload-button, button, select {
+    background-color: #eeeeee;
+    color: #fff;
+}
+#footer {
+    background: #1F2831!important;
+}
+
+th {
+    background-color: #333!important;
+}
+.shopSideBarButton {
+	background-color: #303d4a !important;
+}
+.numButtonsHolder a {
+	background-color: #303d4a !important;
+}
+.numButtonsHolder a:hover {
+	background-color: #28323d !important;
+}
+input[type="button" i], input[type="submit" i], input[type="reset" i], input[type="file" i]::-webkit-file-upload-button, button, select, .button-style {
+	background-color: #303d4a;
+}
+
+.thread-title {
+	background-color: #303d4a !important;
+}
+
+.button {
+	background-color: #303d4a !important; 
+}
+td {
+    background-color: #d4d4d4;
+}
+.spoiler {
+	background-color: #303d4a !important;
+}
+pre {
+border-color: #303d4a!important;
+    background: #131313!important;
+}

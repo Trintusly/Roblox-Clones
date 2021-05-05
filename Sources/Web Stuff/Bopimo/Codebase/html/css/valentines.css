@@ -1,0 +1,64 @@
+.card.b .top, .forum-topic .title {
+	background-color: #ff3ab0;
+}
+
+.forum-topic .subforum {
+	border: 1px dashed #ff3ab0;
+}
+
+nav3 ul.primary {
+	background: linear-gradient(to right, #ff3ab0, #ff0099);
+}
+
+div[style*="border: 1px solid #7660E4"] {
+	border-color: #ff3ab0 !important;
+	color: #ff3ab0 !important;
+}
+
+div[style*="border: 1px solid #7660E4"] a, .shop-item .buy .price {
+	color: #ff3ab0;
+}
+
+a[style="color:#8973f9"] {
+	color: #ff3ab0 !important;
+}
+.small-subtitle {
+	color: #f524a1;
+}
+.footer {
+	border-color: #ff9ff3;
+}
+
+.shop-button.current {
+	background: linear-gradient( to bottom right, #f966be, #f524a1);
+	background-color: #f524a1;
+}
+
+.shop-search-button {
+	background-color: #f524a1;
+}
+
+.shop-search-button:hover {
+	background-color: #c71e83;
+}
+
+.shop-item .buy .button {
+	background-color:  #f524a1;
+}
+.shop-item .buy .button.free, .buy-button.free {
+	background-color: #a86bff;
+}
+.shop-item .buy .price.free, .item-name.free {
+	color: #a86bff;
+}
+
+.buy-button {
+	background-color: #f524a1;
+}
+.item-name {
+	color: #f524a1;
+}
+
+.tab-container {
+	background-color: #f524a1;
+}

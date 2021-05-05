@@ -1,0 +1,2 @@
+// onDamage(client);
+execute("onDamage");

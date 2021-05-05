@@ -1,0 +1,167 @@
+@import url('http://web.archive.org/web/20180727192909cs_/https://fonts.googleapis.com/css?family=Fira+Sans:400,600');
+@import url('http://web.archive.org/web/20180727192909cs_/https://fonts.googleapis.com/css?family=Open+Sans:600');
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  display: grid;
+  font-size: 16px;
+  text-shadow: 0 2px 3px #000;
+}
+
+video {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.video-overlay {
+  background-color: rgba(0, 0, 0, 0.65);
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -50;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.video-content {
+  font-family: 'Fira Sans', sans-serif;
+  margin: auto;
+  text-align: center;
+  color: #FFFFFF;
+  z-index: 2;
+}
+
+.content-title {
+  z-index: 10;
+  text-shadow: 0 2px 3px #000;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 39.9375em) {
+  .content-title {
+    font-size: 36px;
+  }
+  .button-login {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+  .content-title {
+    font-size: 48px;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  .content-title {
+    font-size: 56px;
+  }
+  .content-links {
+	margin-bottom: 200px;
+  }
+}
+
+.content-subtitle {
+  font-size: 18px;
+  text-shadow: 0 2px 3px #000;
+}
+
+.min-header {
+  position: fixed;
+  top: 15px;
+  left: 25px;
+  right: 25px;
+  z-index: 2;
+}
+
+ul.auth-menu {
+	margin: 0;
+	float: right;
+}
+
+ul.auth-menu li {
+  list-style: none;
+  display: inline;
+  margin-left: 15px;
+}
+
+.auth-menu a {
+  border-radius: 8px;
+  color: #FFFFFF;
+  padding: 6px 16px;
+}
+
+.auth-menu a:hover {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.button-login {
+  border: 1px solid #1365D1;
+}
+
+.content-links {
+  margin-top: 25px;
+}
+
+.button-create-account {
+  border: 1px solid #63BD08;
+  font-size: 20px;
+}
+
+.site-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  font-size: 14px;
+  padding: 5px 0;
+  text-align: center;
+  z-index: 1;
+}
+
+.site-footer span {
+  color: rgba(255, 255, 255, 0.8);
+  text-shadow: none;
+  z-index: 5;
+}
+/*
+     FILE ARCHIVED ON 19:29:09 Jul 27, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:43:56 Jan 09, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 188.213 (3)
+  esindex: 0.007
+  captures_list: 208.827
+  CDXLines.iter: 13.523 (3)
+  PetaboxLoader3.datanode: 243.49 (5)
+  exclusion.robots: 0.445
+  exclusion.robots.policy: 0.422
+  RedisCDXSource: 1.33
+  PetaboxLoader3.resolve: 31.166 (2)
+  load_resource: 167.272
+*/

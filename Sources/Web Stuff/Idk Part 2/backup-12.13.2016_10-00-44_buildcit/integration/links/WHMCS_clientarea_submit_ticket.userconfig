@@ -1,0 +1,10 @@
+{
+   "base64_png_image" : "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAAaVBMVEUAAACEtVaZwW+EtVaEtVaZwW9cjiiEtVaZwW+EtVaEtVaZwW+ZwW+EtVaZwW+EtVaXwG2ZwW+EtVaZwW+EtVaZwW+EtVaZwW+EtVaZwW9cjihmmDRrmzprnTlzoUN4qUiEtVaGsVmZwW98tPsQAAAAGnRSTlMAEBAgMDBAQEBgcHCAj4+fn5+vr7+/z8/v70sG19AAAADsSURBVHja7ZPZDoIwFAUPdUFRcQcsKNL//0hNLTf2RCx9NHFeCLczLSSAJ+poPLTgz48KL3Lj0/R+Qwu5Cy407/qgo4WLCwxze/k3w0jAdI3WTWdCAfMPfisoF6W9LiDk34JSQdlCQVhRQD6g7Ld5FviR2Mc+8A4hnwP2d8Yyg7D2g3tPkeDJ1t1NIWRuJAH5Q3CwJD8YJL5fnYTPwQGYvO8/gbD8GGRZ4Z2fQthQEOYf/EbQ1lrX7fjgqi3XsUGrHXxGNRDUfVDTwmYg0II/PyQcZKllLqTvWJ1+0ZHE+oj1Eesj1kesj6KK8B8h7csXeqVdoAAAAABJRU5ErkJggg==",
+   "group_id" : "whmcs",
+   "implements" : "",
+   "url" : "https://viewen.com/free-hosting/submitticket.php?ssoredirect=1",
+   "label" : "Open Ticket",
+   "autologin_token_url" : "https://viewen.com/free-hosting/oauth/token.php?scope=clientarea%3Asso+clientarea%3Asubmit_ticket&module_type=server&module=cpanel",
+   "order" : "1",
+   "subscriber_unique_id" : "VIEWENCOM.5hKDMEym2fWEE2vKqQHCyA=="
+}

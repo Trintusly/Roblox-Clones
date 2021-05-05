@@ -1,0 +1,225 @@
+@import url(https://fonts.googleapis.com/css?family=Assistant);
+
+body {
+    font-family: Assistant, sans-serif;
+    background-color: #131314;
+    color: #D0D2DB;
+    margin: 0;
+	padding: 0;
+    overflow: hidden;
+}
+
+.grid-container {
+	max-width: 55rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Assistant, sans-serif;
+}
+
+@media print, screen and (min-width: 1024px) {
+	.container-wrapper {
+		-ms-transform: translateX(-50%) translateY(-45%);
+		-webkit-transform: translate(-50%,-45%);
+		transform: translate(-50%,-45%);
+		position: absolute;
+		top: 45%;
+		left: 50%;
+	}
+
+	p {
+		font-size: 1rem;
+	}
+}
+
+@media print, screen and (max-width: 1023px) {
+	.container-wrapper {
+		margin-top: 50px;
+	}
+
+	p {
+		line-height: 1.6;
+	}
+
+}
+
+.main-container, .popup-devlogin {
+    margin: -250px 0 0 -350px;
+    width: 700px;
+}
+
+.overlay {
+    z-index: 0;
+    background: 0 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+	
+}
+
+.bp-offline-container {
+    z-index: 15;
+    background: #23242B;
+    padding: 25px;
+    border: 1px solid #000;
+    color: #D0D2DB;
+    font-size: 1.15rem;
+    border-radius: 10px;
+}
+
+.bp-offline-container .divider {
+	width:100%;
+	height: 1px;
+	background: #D0D2DB;
+	margin: 10px 0;
+}
+
+.offline-downtime-text {
+	font-size: 17px;
+	color: #D0D2DB;
+}
+
+.offline-downtime-counter {
+	font-size: 17px;
+	color: #D0D2DB;
+	font-weight: bold;
+}
+
+.overlay-devlogin {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 1);
+    transition: opacity .5s;
+    visibility: hidden;
+    opacity: 0;
+    z-index: 1500;
+}
+
+.overlay-devlogin:target {
+    visibility: visible;
+    opacity: 1;
+}
+
+.popup-devlogin {
+    position: fixed;
+    height: 200px;
+    z-index: 100000;
+    padding: 20px;
+    top: 50%;
+    left: 50%;
+    background-color: #363636;
+    color: #efefef;
+    transition: all 2s ease-in-out;
+}
+
+.devbutton {
+    font-size: 1em;
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+	color: transparent;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	display: block;
+}
+
+.popup-devlogin .close-devlogin {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all .2s;
+    font-size: 30px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #D0D2DB;
+}
+
+.popup-devlogin .close-devlogin:hover {
+    color: #D0D2DB;
+}
+
+.bp-brickspinner {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    background-image: url(/we-are-building/additives/imgs/bricklogo1-sm.png);
+    background-size: 100% 100%;
+    animation-name: spin;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+	from {
+		transform: rotate(0);
+	}
+
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.item-modal {
+	background: #3B3C45;
+	border: 0;
+	border-radius: 5px;
+	padding: 20px 25px;
+	outline: none;
+}
+
+.item-modal button.close-button {
+	position: relative;
+	outline: none;
+	top: auto;
+	right: auto;
+}
+
+.item-modal button.close-button:hover {
+	color: #6E6E6E;
+}
+
+.item-modal .modal-title {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.item-modal p {
+	margin-top: 10px;
+}
+
+.normal-input {
+	width: 100%;
+	display: block;
+	outline: none;
+	padding: 10px 20px;
+	background: #0F0F12;
+	border: 0;
+	color: #F5F5F5;
+	line-height: 1.5;
+	font-size: 18px;
+	border-radius: 4px;
+}
+
+.normal-input:hover, .normal-input:focus {
+	background: #17181C;
+	-o-transition: .25s;
+	-ms-transition: .25s;
+	-moz-transition: .25s;
+	-webkit-transition: .25s;
+	transition: .25s;
+}
+
+.normal-input:disabled {
+	background: #1D1D24;
+	color: #AAA;
+}

@@ -1,0 +1,38 @@
+#htaccess doesn't actually work
+#By default the LAMP install will disable usage of the .htaccess file.
+
+#You need to edit the configuration file for your virtual host.
+
+# $ nano /etc/apache2/sites-available/000-default.conf
+
+#Change the <VirtualHost> directive to look something like this. The important part is AllowOverride All, as this tells Apache that the directory can override default settings using a .htaccess file.
+
+#<VirtualHost *>
+ #    ServerName cyan.red
+  #   ServerAlias www.cyan.red
+   #  DocumentRoot /var/www/html
+#
+ #    <Directory /var/www/html>
+  #      Options FollowSymLinks
+   #     AllowOverride all
+    #    Require all granted
+     #</Directory>
+
+     #ErrorLog ${APACHE_LOG_DIR}/error.log
+     #CustomLog ${APACHE_LOG_DIR}/access.log combined
+#</VirtualHost>
+
+#Now make sure the website is enabled.
+
+ # $ a2ensite 000-default.conf
+
+#Also make sure that the rewrite mod is enabled.
+
+ # $ a2enmod rewrite
+
+#Now restart Apache
+
+ #  $ service apache2 restart
+
+#byte312 wasw hereejrijri
+

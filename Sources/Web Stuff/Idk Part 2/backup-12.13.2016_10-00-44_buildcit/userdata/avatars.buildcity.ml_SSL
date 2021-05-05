@@ -1,0 +1,22 @@
+--- 
+documentroot: /home/buildcit/public_html/Avatars
+enable_sni_for_mail: 1
+group: buildcit
+hascgi: 1
+homedir: /home/buildcit
+ip: 162.144.152.200
+ipv6: ~
+owner: root
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@avatars.buildcity.ml
+serveralias: www.avatars.buildcity.ml
+servername: avatars.buildcity.ml
+ssl: 1
+sslcacertificatefile: /var/cpanel/ssl/installed/cabundles/Let_s_Encrypt_d5a69d0f2effae8513e08eaced2ccf28_1615999246.cabundle
+sslcertificatefile: /var/cpanel/ssl/installed/certs/avatars_buildcity_ml_d5978_5ff3f_1489224780_f9cac1c259342b09640213577a0eafd5.crt
+sslcertificatekeyfile: /var/cpanel/ssl/installed/keys/d5978_5ff3f_1aa582ea957917bc46b37c83999d3aa1.key
+usecanonicalname: 'Off'
+user: buildcit
+userdirprotect: -1

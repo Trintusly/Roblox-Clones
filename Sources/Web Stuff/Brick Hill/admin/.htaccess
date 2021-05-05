@@ -1,0 +1,12 @@
+#order deny,allow
+#deny from all
+allow from 24.59.175.109
+allow from 82.21.246.202
+allow from 173.88.19.189
+allow from 109.147.202.36
+allow from 86.179.101.205
+allow from 86.175.209.219
+allow from 120.147.15.59
+allow from 50.134.224.170
+allow from 98.219.19.170
+allow from 64.113.177.153

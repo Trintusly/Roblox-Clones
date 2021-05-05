@@ -1,0 +1,11 @@
+[20-Jan-2017 19:26:25 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bricflrb/alpha_subdomain/API/games/gametitle.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/API/games/gametitle.php on line 8
+[26-Jan-2017 14:44:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/bricflrb/alpha_subdomain/API/games/gametitle.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/bricflrb/alpha_subdomain/API/games/gametitle.php on line 8
+[06-Apr-2017 13:59:33 America/New_York] PHP Notice:  Undefined property: stdClass::$address in /home/bricflrb/beta_subdomain/API/games/gameip.php on line 9
+[08-Apr-2017 08:15:15 America/New_York] PHP Parse error:  syntax error, unexpected '$ping' (T_VARIABLE) in /home/bricflrb/beta_subdomain/API/games/server_ping.php on line 8
+[08-Apr-2017 08:15:35 America/New_York] PHP Parse error:  syntax error, unexpected '$ping' (T_VARIABLE) in /home/bricflrb/beta_subdomain/API/games/server_ping.php on line 8

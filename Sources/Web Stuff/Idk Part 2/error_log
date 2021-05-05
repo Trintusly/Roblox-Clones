@@ -1,0 +1,12 @@
+[07-Dec-2016 13:09:48 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/minebuil/public_html/connection.php on line 8
+[07-Dec-2016 13:09:52 America/Chicago] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, null given in /home/minebuil/public_html/connection.php on line 8
+[12-Dec-2016 11:19:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'center' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/index.php on line 137
+[12-Dec-2016 11:59:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/ForgotPassword.php on line 22
+[12-Dec-2016 11:59:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'www' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/ForgotPassword.php on line 22
+[12-Dec-2016 11:59:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'www' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/ForgotPassword.php on line 22
+[12-Dec-2016 12:00:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'www' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/ForgotPassword.php on line 22
+[12-Dec-2016 12:00:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'www' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/ForgotPassword.php on line 22
+[12-Dec-2016 12:00:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'www' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/ForgotPassword.php on line 22
+[12-Dec-2016 12:00:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'www' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/ForgotPassword.php on line 22
+[12-Dec-2016 12:01:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'buildcity' (T_STRING), expecting ',' or ';' in /home/buildcit/public_html/ForgotPassword.php on line 22
+[12-Dec-2016 12:29:02 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/buildcit/public_html/Header.php on line 24

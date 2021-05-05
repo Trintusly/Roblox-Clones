@@ -1,0 +1,8 @@
+code {
+    padding: .125rem .3125rem .0625rem !important;
+    border: 1px solid #212121 !important;
+    background-color: #212121 !important;
+    font-family: Consolas,liberation mono,Courier,monospace;
+    font-weight: 400;
+    color: #de4040 !important;
+}

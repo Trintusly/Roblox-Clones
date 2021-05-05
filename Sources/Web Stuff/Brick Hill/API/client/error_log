@@ -1,0 +1,101 @@
+[17-Apr-2017 09:02:53 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:02:53 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:04:07 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:04:08 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:05:27 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:05:28 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:06:09 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:06:10 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:08:44 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:08:45 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:09:59 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:10:00 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:10:04 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[17-Apr-2017 09:10:04 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[17-Apr-2017 09:10:04 America/New_York] PHP Notice:  Undefined index: part in /home/bricflrb/public_html/API/client/avatar.php on line 9
+[17-Apr-2017 09:10:34 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:10:34 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:10:36 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[17-Apr-2017 09:10:36 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[17-Apr-2017 09:10:36 America/New_York] PHP Notice:  Undefined index: part in /home/bricflrb/public_html/API/client/avatar.php on line 9
+[17-Apr-2017 09:10:59 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:11:00 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:14:57 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:14:59 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:19:55 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:19:56 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:21:37 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:21:38 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:22:25 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:22:43 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:23:56 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:24:29 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:25:10 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:25:32 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 9
+[17-Apr-2017 09:27:52 America/New_York] PHP Notice:  Undefined variable: new_data in /home/bricflrb/public_html/API/client/username.php on line 11
+[17-Apr-2017 09:32:03 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[17-Apr-2017 09:32:03 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[17-Apr-2017 09:32:03 America/New_York] PHP Notice:  Undefined index: part in /home/bricflrb/public_html/API/client/avatar.php on line 9
+[18-Apr-2017 12:57:11 America/New_York] PHP Notice:  Undefined index: ID in /home/bricflrb/public_html/API/client/UserExist.php on line 4
+[18-Apr-2017 12:57:11 America/New_York] PHP Notice:  Undefined index: ID in /home/bricflrb/public_html/API/client/PlaceExist.php on line 4
+[18-Apr-2017 12:57:12 America/New_York] PHP Notice:  Undefined index: UID in /home/bricflrb/public_html/API/client/userUID.php on line 6
+[18-Apr-2017 16:02:24 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 14
+[18-Apr-2017 16:02:25 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 14
+[18-Apr-2017 16:03:05 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 14
+[18-Apr-2017 16:03:05 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 14
+[18-Apr-2017 16:03:51 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 14
+[18-Apr-2017 16:03:52 America/New_York] PHP Notice:  Undefined property: stdClass::$username in /home/bricflrb/public_html/API/client/username.php on line 14
+[18-Apr-2017 16:03:52 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:03:52 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:06:05 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:06:05 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:09:08 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:09:08 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:11:31 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:11:31 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:11:49 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:11:49 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:13:09 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:13:09 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:13:21 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:13:21 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:13:53 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:13:53 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:15:01 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:15:01 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:19:18 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:19:18 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:21:31 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:21:31 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:23:43 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:23:43 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:24:18 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:24:18 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:24:58 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:24:58 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:25:50 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:25:50 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:26:42 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:26:42 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:27:24 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:27:24 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:27:57 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:27:57 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:28:57 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:28:57 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:29:28 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:29:28 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:30:26 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:30:26 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:30:58 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:30:58 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:32:19 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:32:19 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:39:50 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 16:39:50 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 19:34:25 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[18-Apr-2017 19:34:25 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[19-Apr-2017 10:28:15 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[19-Apr-2017 10:28:15 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[19-Apr-2017 12:05:11 America/New_York] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3
+[19-Apr-2017 12:05:11 America/New_York] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/bricflrb/public_html/SiT_3/PHP/helper.php on line 3

@@ -1,0 +1,26 @@
+#banner {
+    height: 100px;
+    padding-top: 0px;
+    margin-top: 66px;
+    background-image: url(http://alpha.brick-hill.com/winter-theme/snow_head.png);
+}
+body {
+    background-image: url(http://alpha.brick-hill.com/winter-theme/snow.png), url(http://alpha.brick-hill.com/assets/bkg.png);
+    background-size: 25%, contain;
+    background-repeat: repeat, repeat-y;
+}
+/*
+#box {
+	background-image: url(http://alpha.brick-hill.com/winter-theme/snow-box.png)
+}
+*/
+#navbar {
+	background-image: url(http://alpha.brick-hill.com/winter-theme/snow.png);
+}
+/* body {
+    background-image: url(http://alpha.brick-hill.com/winter-theme/snow.png), url(http://alpha.brick-hill.com/winter-theme/snow-foot.png), url(http://alpha.brick-hill.com/assets/bkg.png)!important;
+    background-size: 25%, 21% ,cover;
+    background-repeat: repeat,repeat-x ,repeat-y;
+    background-position: center, bottom, center;
+}
+*/

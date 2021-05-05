@@ -1,0 +1,15 @@
+#banner {
+	font-size: 0!important;
+	height: 100px!important;
+	background-image: url("assets/build.png")!important;
+	background-size: 100%!important;
+	padding-top:66px !important;
+}
+
+#header {
+	margin-top: 0px!important;
+}
+
+body {
+	margin-top:0px!important;
+}

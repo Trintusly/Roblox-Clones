@@ -1,0 +1,48 @@
+	.communityLogoEmblem {
+		width: 96px;
+		height: 96px;
+		border-radius: 50%;
+		background-color: #1D1F24;
+		margin-left: auto;
+		margin-right: auto;
+		left: 0;
+		right: 0;
+		top: -55px;
+		position: absolute;
+		z-index: 1;
+	}
+	
+	.communityName {
+		text-align: center;
+		margin: 0 auto;
+		font-size: 18px;
+		margin-top: 9px;
+	}
+	
+	.communityMembers {
+		font-size: 12px;
+		text-align: center;
+	}
+	
+	.communityDescription {
+		word-break: break-word;
+		width: 100%;
+		margin: 0 auto;
+		font-size: 13px;
+		margin-top: 10px;
+		text-align: center;
+	}
+	
+	.communityViewBtn {
+		margin: 0 auto;
+		text-align: center;
+		position: absolute;
+		left: 0;
+		right: 0;
+		bottom: 115px;
+	}
+	
+	.communityNoClr {
+		text-decoration: none;
+		color: #E1E4EB;
+	}
